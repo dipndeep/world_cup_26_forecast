@@ -1,0 +1,1246 @@
+ID,Team,Position,Player,Age,Caps,Goals,WC Goals,League,Club
+1,Czech Republic,Goalkeeper,Matěj Kovář,26,20,0,0,Royal Dutch Football Association,PSV Eindhoven
+2,Czech Republic,Defender,David Zima,25,25,1,0,Football Association of the Czech Republic,Slavia Prague
+3,Czech Republic,Defender,Tomáš Holeš,33,41,2,0,Football Association of the Czech Republic,Slavia Prague
+4,Czech Republic,Defender,Robin Hranáč,26,14,1,0,German Football Association,TSG Hoffenheim
+5,Czech Republic,Defender,Vladimír Coufal,33,62,2,0,German Football Association,TSG Hoffenheim
+6,Czech Republic,Defender,Štěpán Chaloupek,23,5,0,0,Football Association of the Czech Republic,Slavia Prague
+7,Czech Republic,Defender,Ladislav Krejčí (captain),27,27,5,0,The Football Association,Wolverhampton Wanderers
+8,Czech Republic,Midfielder,Vladimír Darida,35,79,8,0,Football Association of the Czech Republic,Hradec Králové
+9,Czech Republic,Forward,Adam Hložek,23,43,5,0,German Football Association,TSG Hoffenheim
+10,Czech Republic,Forward,Patrik Schick,30,53,26,0,German Football Association,Bayer Leverkusen
+11,Czech Republic,Forward,Jan Kuchta,29,31,3,0,Football Association of the Czech Republic,Sparta Prague
+12,Czech Republic,Midfielder,Lukáš Červ,25,17,2,0,Football Association of the Czech Republic,Viktoria Plzeň
+13,Czech Republic,Forward,Mojmír Chytil,27,22,6,0,Football Association of the Czech Republic,Slavia Prague
+14,Czech Republic,Defender,David Jurásek,25,18,1,0,Football Association of the Czech Republic,Slavia Prague
+15,Czech Republic,Forward,Pavel Šulc,25,21,5,0,French Football Federation,Lyon
+16,Czech Republic,Goalkeeper,Jindřich Staněk,30,14,0,0,Football Association of the Czech Republic,Slavia Prague
+17,Czech Republic,Midfielder,Lukáš Provod,29,38,3,0,Football Association of the Czech Republic,Slavia Prague
+18,Czech Republic,Midfielder,Michal Sadílek,27,35,1,0,Football Association of the Czech Republic,Slavia Prague
+19,Czech Republic,Forward,Tomáš Chorý,31,22,7,0,Football Association of the Czech Republic,Slavia Prague
+20,Czech Republic,Defender,Jaroslav Zelený,33,23,0,0,Football Association of the Czech Republic,Sparta Prague
+21,Czech Republic,Defender,David Douděra,28,17,2,0,Football Association of the Czech Republic,Slavia Prague
+22,Czech Republic,Midfielder,Tomáš Souček,31,90,17,0,The Football Association,West Ham United
+23,Czech Republic,Goalkeeper,Lukáš Horníček,23,1,0,0,Portuguese Football Federation,Braga
+24,Czech Republic,Midfielder,Alexandr Sojka,23,2,0,0,Football Association of the Czech Republic,Viktoria Plzeň
+25,Czech Republic,Midfielder,Hugo Sochůrek,18,1,0,0,Football Association of the Czech Republic,Sparta Prague
+26,Czech Republic,Forward,Denis Višinský,23,2,1,0,Football Association of the Czech Republic,Viktoria Plzeň
+27,Mexico,Goalkeeper,Raúl Rangel,26,14,0,0,Mexican Football Federation,Guadalajara
+28,Mexico,Defender,Jorge Sánchez,28,59,3,0,Hellenic Football Federation,PAOK
+29,Mexico,Defender,César Montes,29,67,4,0,Russian Football Union,Lokomotiv Moscow
+30,Mexico,Defender,Edson Álvarez (captain),28,98,7,0,Turkish Football Federation,Fenerbahçe
+31,Mexico,Defender,Johan Vásquez,27,46,3,0,Italian Football Federation,Genoa
+32,Mexico,Midfielder,Érik Lira,26,25,0,0,Mexican Football Federation,Cruz Azul
+33,Mexico,Midfielder,Luis Romo,31,63,4,0,Mexican Football Federation,Guadalajara
+34,Mexico,Midfielder,Álvaro Fidalgo,29,4,0,0,Royal Spanish Football Federation,Real Betis
+35,Mexico,Forward,Raúl Jiménez,35,124,45,0,The Football Association,Fulham
+36,Mexico,Forward,Alexis Vega,28,52,7,0,Mexican Football Federation,Toluca
+37,Mexico,Forward,Santiago Giménez,25,47,6,0,Italian Football Federation,Milan
+38,Mexico,Goalkeeper,Carlos Acevedo,30,7,0,0,Mexican Football Federation,Santos Laguna
+39,Mexico,Goalkeeper,Guillermo Ochoa,40,152,0,0,Cyprus Football Association,AEL Limassol
+40,Mexico,Forward,Armando González,23,7,1,0,Mexican Football Federation,Guadalajara
+41,Mexico,Defender,Israel Reyes,26,34,2,0,Mexican Football Federation,América
+42,Mexico,Forward,Julián Quiñones,29,22,2,0,Saudi Arabian Football Federation,Al-Qadsiah
+43,Mexico,Midfielder,Orbelín Pineda,30,92,12,0,Hellenic Football Federation,AEK Athens
+44,Mexico,Midfielder,Obed Vargas,20,6,0,0,Royal Spanish Football Federation,Atlético Madrid
+45,Mexico,Midfielder,Gilberto Mora,17,8,0,0,Mexican Football Federation,Tijuana
+46,Mexico,Defender,Mateo Chávez,22,10,0,0,Royal Dutch Football Association,AZ
+47,Mexico,Forward,César Huerta,25,26,3,0,Royal Belgian Football Association,Anderlecht
+48,Mexico,Forward,Guillermo Martínez,31,12,3,0,Mexican Football Federation,Pumas
+49,Mexico,Defender,Jesús Gallardo,31,121,3,0,Mexican Football Federation,Toluca
+50,Mexico,Midfielder,Luis Chávez,30,45,5,0,Russian Football Union,Dynamo Moscow
+51,Mexico,Forward,Roberto Alvarado,27,67,5,0,Mexican Football Federation,Guadalajara
+52,Mexico,Midfielder,Brian Gutiérrez,22,7,2,0,Mexican Football Federation,Guadalajara
+53,South Africa,Goalkeeper,Ronwen Williams (captain),34,62,0,0,South African Football Association,Mamelodi Sundowns
+54,South Africa,Defender,Thabang Matuludi,27,2,0,0,South African Football Association,Polokwane City
+55,South Africa,Defender,Khulumani Ndamane,22,5,0,0,South African Football Association,Mamelodi Sundowns
+56,South Africa,Midfielder,Teboho Mokoena,29,51,9,0,South African Football Association,Mamelodi Sundowns
+57,South Africa,Midfielder,Thalente Mbatha,26,14,3,0,South African Football Association,Orlando Pirates
+58,South Africa,Defender,Aubrey Modiba,30,44,3,0,South African Football Association,Mamelodi Sundowns
+59,South Africa,Forward,Oswin Appollis,24,25,8,0,South African Football Association,Orlando Pirates
+60,South Africa,Forward,Tshepang Moremi,25,9,1,0,South African Football Association,Orlando Pirates
+61,South Africa,Forward,Lyle Foster,25,26,10,0,The Football Association,Burnley
+62,South Africa,Forward,Relebohile Mofokeng,21,12,0,0,South African Football Association,Orlando Pirates
+63,South Africa,Midfielder,Themba Zwane,36,53,12,0,South African Football Association,Mamelodi Sundowns
+64,South Africa,Forward,Thapelo Maseko,22,9,1,0,Cyprus Football Association,AEL Limassol
+65,South Africa,Midfielder,Sphephelo Sithole,27,27,1,0,Portuguese Football Federation,Tondela
+66,South Africa,Defender,Mbekezeli Mbokazi,20,10,1,0,United States Soccer Federation,Chicago Fire FC
+67,South Africa,Forward,Iqraam Rayners,30,13,4,0,South African Football Association,Mamelodi Sundowns
+68,South Africa,Goalkeeper,Sipho Chaine,29,3,0,0,South African Football Association,Orlando Pirates
+69,South Africa,Forward,Evidence Makgopa,26,26,6,0,South African Football Association,Orlando Pirates
+70,South Africa,Defender,Samukele Kabini,22,5,0,0,Norwegian Football Federation,Molde
+71,South Africa,Defender,Nkosinathi Sibisi,30,19,0,0,South African Football Association,Orlando Pirates
+72,South Africa,Defender,Khuliso Mudau,31,32,1,0,South African Football Association,Mamelodi Sundowns
+73,South Africa,Defender,Ime Okon,22,7,1,0,German Football Association,Hannover 96
+74,South Africa,Goalkeeper,Ricardo Goss,32,4,0,0,South African Football Association,Siwelele
+75,South Africa,Midfielder,Jayden Adams,25,4,0,0,South African Football Association,Mamelodi Sundowns
+76,South Africa,Defender,Olwethu Makhanya,22,0,0,0,United States Soccer Federation,Philadelphia Union
+77,South Africa,Forward,Kamogelo Sebelebele,23,2,0,0,South African Football Association,Orlando Pirates
+78,South Africa,Defender,Bradley Cross,25,0,0,0,South African Football Association,Kaizer Chiefs
+79,South Korea,Goalkeeper,Kim Seung-gyu,35,87,0,0,Japan Football Association,FC Tokyo
+80,South Korea,Defender,Lee Han-beom,23,8,0,0,Danish Football Association,Midtjylland
+81,South Korea,Midfielder,Lee Gi-hyuk,25,3,0,0,Korea Football Association,Gangwon FC
+82,South Korea,Defender,Kim Min-jae,29,79,4,0,German Football Association,Bayern Munich
+83,South Korea,Defender,Kim Tae-hyeon,25,7,0,0,Japan Football Association,Kashima Antlers
+84,South Korea,Midfielder,Hwang In-beom,29,73,6,0,Royal Dutch Football Association,Feyenoord
+85,South Korea,Forward,Son Heung-min (captain),33,144,56,0,United States Soccer Federation,Los Angeles FC
+86,South Korea,Midfielder,Paik Seung-ho,29,27,3,0,The Football Association,Birmingham City
+87,South Korea,Forward,Cho Gue-sung,28,44,12,0,Danish Football Association,Midtjylland
+88,South Korea,Midfielder,Lee Jae-sung,33,105,15,0,German Football Association,Mainz 05
+89,South Korea,Midfielder,Hwang Hee-chan,30,79,17,0,The Football Association,Wolverhampton Wanderers
+90,South Korea,Goalkeeper,Song Bum-keun,28,3,0,0,Korea Football Association,Jeonbuk Hyundai Motors
+91,South Korea,Defender,Lee Tae-seok,23,15,1,0,Austrian Football Association,Austria Wien
+92,South Korea,Defender,Cho Wi-je,24,1,0,0,Korea Football Association,Jeonbuk Hyundai Motors
+93,South Korea,Defender,Kim Moon-hwan,30,35,0,0,Korea Football Association,Daejeon Hana Citizen
+94,South Korea,Defender,Park Jin-seob,30,14,1,0,Chinese Football Association,Zhejiang
+95,South Korea,Midfielder,Bae Jun-ho,22,13,2,0,The Football Association,Stoke City
+96,South Korea,Forward,Oh Hyeon-gyu,25,27,6,0,Turkish Football Federation,Beşiktaş
+97,South Korea,Midfielder,Lee Kang-in,25,47,11,0,French Football Federation,Paris Saint-Germain
+98,South Korea,Midfielder,Yang Hyun-jun,24,9,0,0,Scottish Football Association,Celtic
+99,South Korea,Goalkeeper,Jo Hyeon-woo,34,48,0,0,Korea Football Association,Ulsan HD
+100,South Korea,Defender,Seol Young-woo,27,34,0,0,Football Association of Serbia,Red Star Belgrade
+101,South Korea,Defender,Jens Castrop,22,7,0,0,German Football Association,Borussia Mönchengladbach
+102,South Korea,Midfielder,Kim Jin-gyu,29,22,3,0,Korea Football Association,Jeonbuk Hyundai Motors
+103,South Korea,Midfielder,Eom Ji-sung,24,9,2,0,Football Association of Wales,Swansea City
+104,South Korea,Midfielder,Lee Dong-gyeong,28,18,4,0,Korea Football Association,Ulsan HD
+105,Bosnia and Herzegovina,Goalkeeper,Nikola Vasilj,30,26,0,0,German Football Association,FC St. Pauli
+106,Bosnia and Herzegovina,Defender,Nihad Mujakić,28,12,1,0,Turkish Football Federation,Gaziantep
+107,Bosnia and Herzegovina,Defender,Dennis Hadžikadunić,27,32,0,0,Italian Football Federation,Sampdoria
+108,Bosnia and Herzegovina,Defender,Tarik Muharemović,23,14,1,0,Italian Football Federation,Sassuolo
+109,Bosnia and Herzegovina,Defender,Sead Kolašinac,32,65,0,0,Italian Football Federation,Atalanta
+110,Bosnia and Herzegovina,Midfielder,Benjamin Tahirović,23,28,2,0,Danish Football Association,Brøndby
+111,Bosnia and Herzegovina,Defender,Amar Dedić,23,28,1,0,Portuguese Football Federation,Benfica
+112,Bosnia and Herzegovina,Midfielder,Armin Gigović,24,20,1,0,Swiss Football Association,Young Boys
+113,Bosnia and Herzegovina,Forward,Samed Baždar,22,13,1,0,Polish Football Association,Jagiellonia Białystok
+114,Bosnia and Herzegovina,Forward,Ermedin Demirović,28,40,4,0,German Football Association,VfB Stuttgart
+115,Bosnia and Herzegovina,Forward,Edin Džeko (captain),40,148,73,0,German Football Association,Schalke 04
+116,Bosnia and Herzegovina,Goalkeeper,Mladen Jurkas,18,0,0,0,Football Association of Bosnia and Herzegovina,Borac Banja Luka
+117,Bosnia and Herzegovina,Midfielder,Ivan Bašić,24,17,0,0,Kazakhstan Football Federation,Astana
+118,Bosnia and Herzegovina,Midfielder,Ivan Šunjić,29,11,0,0,Cyprus Football Association,Pafos
+119,Bosnia and Herzegovina,Midfielder,Amar Memić,25,13,1,0,Football Association of the Czech Republic,Viktoria Plzeň
+120,Bosnia and Herzegovina,Midfielder,Amir Hadžiahmetović,29,36,0,0,The Football Association,Hull City
+121,Bosnia and Herzegovina,Midfielder,Dženis Burnić,28,20,0,0,German Football Association,Karlsruher SC
+122,Bosnia and Herzegovina,Defender,Nikola Katić,29,17,2,0,German Football Association,Schalke 04
+123,Bosnia and Herzegovina,Forward,Kerim Alajbegović,18,10,1,0,Austrian Football Association,Red Bull Salzburg
+124,Bosnia and Herzegovina,Forward,Esmir Bajraktarević,21,16,1,0,Royal Dutch Football Association,PSV Eindhoven
+125,Bosnia and Herzegovina,Defender,Stjepan Radeljić,28,5,0,0,Croatian Football Federation,Rijeka
+126,Bosnia and Herzegovina,Goalkeeper,Martin Zlomislić,27,3,0,0,Croatian Football Federation,Rijeka
+127,Bosnia and Herzegovina,Forward,Haris Tabaković,31,10,4,0,German Football Association,Borussia Mönchengladbach
+128,Bosnia and Herzegovina,Defender,Nidal Čelik,19,2,0,0,French Football Federation,Lens
+129,Bosnia and Herzegovina,Forward,Jovo Lukić,27,3,0,0,Romanian Football Federation,Universitatea Cluj
+130,Bosnia and Herzegovina,Midfielder,Ermin Mahmić,21,2,0,0,Football Association of the Czech Republic,Slovan Liberec
+131,Canada,Goalkeeper,Dayne St. Clair,29,20,0,0,United States Soccer Federation,Inter Miami CF
+132,Canada,Defender,Alistair Johnston,27,58,1,0,Scottish Football Association,Celtic
+133,Canada,Defender,Alfie Jones,28,2,0,0,The Football Association,Middlesbrough
+134,Canada,Defender,Luc de Fougerolles,20,13,0,0,Royal Belgian Football Association,Dender
+135,Canada,Defender,Joel Waterman,30,17,0,0,United States Soccer Federation,Chicago Fire FC
+136,Canada,Midfielder,Mathieu Choinière,27,23,0,0,United States Soccer Federation,Los Angeles FC
+137,Canada,Midfielder,Stephen Eustáquio,29,56,4,0,United States Soccer Federation,Los Angeles FC
+138,Canada,Midfielder,Ismaël Koné,23,40,4,0,Italian Football Federation,Sassuolo
+139,Canada,Forward,Cyle Larin,31,90,30,0,The Football Association,Southampton
+140,Canada,Forward,Jonathan David,26,77,39,0,Italian Football Federation,Juventus
+141,Canada,Midfielder,Liam Millar,26,41,1,0,The Football Association,Hull City
+142,Canada,Forward,Tani Oluwaseyi,26,24,2,0,Royal Spanish Football Federation,Villarreal
+143,Canada,Defender,Derek Cornelius,28,44,1,0,Scottish Football Association,Rangers
+144,Canada,Midfielder,Jacob Shaffelburg,26,31,6,0,United States Soccer Federation,Los Angeles FC
+145,Canada,Defender,Moïse Bombito,26,20,0,0,French Football Federation,Nice
+146,Canada,Goalkeeper,Maxime Crépeau,32,32,0,0,United States Soccer Federation,Orlando City SC
+147,Canada,Forward,Tajon Buchanan,27,60,8,0,Royal Spanish Football Federation,Villarreal
+148,Canada,Goalkeeper,Owen Goodman,22,0,0,0,The Football Association,Barnsley
+149,Canada,Defender,Alphonso Davies (captain),25,58,15,0,German Football Association,Bayern Munich
+150,Canada,Forward,Ali Ahmed,25,24,1,0,The Football Association,Norwich City
+151,Canada,Midfielder,Jonathan Osorio,33,90,10,0,Canadian Soccer Association,Toronto FC
+152,Canada,Defender,Richie Laryea,31,75,1,0,Canadian Soccer Association,Toronto FC
+153,Canada,Defender,Niko Sigur,22,19,2,0,Croatian Football Federation,Hajduk Split
+154,Canada,Forward,Promise David,24,10,3,0,Royal Belgian Football Association,Union Saint-Gilloise
+155,Canada,Midfielder,Nathan Saliba,22,15,2,0,Royal Belgian Football Association,Anderlecht
+156,Qatar,Goalkeeper,Mahmud Abunada,26,5,0,0,Qatar Football Association,Al-Rayyan
+157,Qatar,Defender,Pedro Miguel,35,99,3,0,Qatar Football Association,Al-Sadd
+158,Qatar,Defender,Lucas Mendes,35,25,1,0,Qatar Football Association,Al-Wakrah
+159,Qatar,Defender,Issa Laye,28,4,0,0,Qatar Football Association,Al-Arabi
+160,Qatar,Defender,Jassem Gaber,24,32,1,0,Qatar Football Association,Al-Rayyan
+161,Qatar,Midfielder,Abdulaziz Hatem,36,117,11,0,Qatar Football Association,Al-Rayyan
+162,Qatar,Forward,Ahmed Alaaeldin,33,68,9,0,Qatar Football Association,Al-Rayyan
+163,Qatar,Forward,Edmilson Junior,31,16,0,0,Qatar Football Association,Al-Duhail
+164,Qatar,Forward,Mohammed Muntari,32,67,16,0,Qatar Football Association,Al-Gharafa
+165,Qatar,Forward,Hassan Al-Haydos (captain),35,186,41,0,Qatar Football Association,Al-Sadd
+166,Qatar,Forward,Akram Afif,29,125,39,0,Qatar Football Association,Al-Sadd
+167,Qatar,Midfielder,Karim Boudiaf,35,118,5,0,Qatar Football Association,Al-Duhail
+168,Qatar,Defender,Ayoub Al-Oui,21,6,0,0,Qatar Football Association,Al-Gharafa
+169,Qatar,Defender,Homam Ahmed,26,68,3,0,Royal Spanish Football Federation,Cultural Leonesa
+170,Qatar,Forward,Yusuf Abdurisag,26,39,3,0,Qatar Football Association,Al-Wakrah
+171,Qatar,Defender,Boualem Khoukhi,35,116,20,0,Qatar Football Association,Al-Sadd
+172,Qatar,Midfielder,Ahmed Al-Ganehi,25,13,1,0,Qatar Football Association,Al-Gharafa
+173,Qatar,Defender,Sultan Al-Brake,30,17,0,0,Qatar Football Association,Al-Duhail
+174,Qatar,Forward,Almoez Ali,29,115,55,0,Qatar Football Association,Al-Duhail
+175,Qatar,Midfielder,Ahmed Fathy,33,48,0,0,Qatar Football Association,Al-Arabi
+176,Qatar,Goalkeeper,Salah Zakaria,27,8,0,0,Qatar Football Association,Al-Duhail
+177,Qatar,Goalkeeper,Meshaal Barsham,28,52,0,0,Qatar Football Association,Al-Sadd
+178,Qatar,Midfielder,Assim Madibo,29,51,0,0,Qatar Football Association,Al-Wakrah
+179,Qatar,Forward,Tahsin Jamshid,19,3,0,0,Qatar Football Association,Al-Duhail
+180,Qatar,Defender,Al-Hashmi Al-Hussain,22,8,0,0,Qatar Football Association,Al-Arabi
+181,Qatar,Forward,Mohamed Manai,23,10,0,0,Qatar Football Association,Al-Shamal
+182,Switzerland,Goalkeeper,Gregor Kobel,28,21,0,0,German Football Association,Borussia Dortmund
+183,Switzerland,Defender,Miro Muheim,28,10,0,0,German Football Association,Hamburger SV
+184,Switzerland,Defender,Silvan Widmer,33,60,5,0,German Football Association,Mainz 05
+185,Switzerland,Defender,Nico Elvedi,29,67,3,0,German Football Association,Borussia Mönchengladbach
+186,Switzerland,Defender,Manuel Akanji,30,81,4,0,Italian Football Federation,Inter Milan
+187,Switzerland,Midfielder,Denis Zakaria,29,65,3,0,French Football Federation,Monaco
+188,Switzerland,Forward,Breel Embolo,29,86,24,0,French Football Federation,Rennes
+189,Switzerland,Midfielder,Remo Freuler,34,88,11,0,Italian Football Federation,Bologna
+190,Switzerland,Midfielder,Johan Manzambi,20,12,3,0,German Football Association,SC Freiburg
+191,Switzerland,Midfielder,Granit Xhaka (captain),33,146,17,0,The Football Association,Sunderland
+192,Switzerland,Forward,Dan Ndoye,25,31,8,0,The Football Association,Nottingham Forest
+193,Switzerland,Goalkeeper,Yvon Mvogo,32,13,0,0,French Football Federation,Lorient
+194,Switzerland,Defender,Ricardo Rodriguez,33,138,9,0,Royal Spanish Football Federation,Real Betis
+195,Switzerland,Midfielder,Ardon Jashari,23,8,0,0,Italian Football Federation,Milan
+196,Switzerland,Midfielder,Djibril Sow,29,52,0,0,Royal Spanish Football Federation,Sevilla
+197,Switzerland,Forward,Christian Fassnacht,32,23,5,0,Swiss Football Association,Young Boys
+198,Switzerland,Forward,Rubén Vargas,27,61,11,0,Royal Spanish Football Federation,Sevilla
+199,Switzerland,Defender,Eray Cömert,28,22,0,0,Royal Spanish Football Federation,Valencia
+200,Switzerland,Forward,Noah Okafor,26,25,2,0,The Football Association,Leeds United
+201,Switzerland,Midfielder,Michel Aebischer,29,40,2,0,Italian Football Federation,Pisa
+202,Switzerland,Goalkeeper,Marvin Keller,23,1,0,0,Swiss Football Association,Young Boys
+203,Switzerland,Midfielder,Fabian Rieder,24,28,1,0,German Football Association,FC Augsburg
+204,Switzerland,Forward,Zeki Amdouni,25,29,11,0,The Football Association,Burnley
+205,Switzerland,Defender,Aurèle Amenda,22,7,0,0,German Football Association,Eintracht Frankfurt
+206,Switzerland,Defender,Luca Jaquez,23,3,0,0,German Football Association,VfB Stuttgart
+207,Switzerland,Forward,Cedric Itten,29,15,5,0,German Football Association,Fortuna Düsseldorf
+208,Brazil,Goalkeeper,Alisson,33,78,0,0,The Football Association,Liverpool
+209,Brazil,Midfielder,Éderson Silva,26,3,0,0,Italian Football Federation,Atalanta
+210,Brazil,Defender,Gabriel Magalhães,28,17,1,0,The Football Association,Arsenal
+211,Brazil,Defender,Marquinhos (captain),32,105,7,0,French Football Federation,Paris Saint-Germain
+212,Brazil,Midfielder,Casemiro,34,86,9,0,The Football Association,Manchester United
+213,Brazil,Defender,Alex Sandro,35,45,2,0,Brazilian Football Confederation,Flamengo
+214,Brazil,Forward,Vinícius Júnior,25,49,9,0,Royal Spanish Football Federation,Real Madrid
+215,Brazil,Midfielder,Bruno Guimarães,28,43,3,0,The Football Association,Newcastle United
+216,Brazil,Forward,Matheus Cunha,27,23,1,0,The Football Association,Manchester United
+217,Brazil,Forward,Neymar,34,128,79,0,Brazilian Football Confederation,Santos
+218,Brazil,Forward,Raphinha,29,39,11,0,Royal Spanish Football Federation,Barcelona
+219,Brazil,Goalkeeper,Weverton,38,11,0,0,Brazilian Football Confederation,Grêmio
+220,Brazil,Defender,Danilo Luiz,34,70,1,0,Brazilian Football Confederation,Flamengo
+221,Brazil,Defender,Bremer,29,8,1,0,Italian Football Federation,Juventus
+222,Brazil,Defender,Léo Pereira,30,4,0,0,Brazilian Football Confederation,Flamengo
+223,Brazil,Defender,Douglas Santos,32,7,0,0,Russian Football Union,Zenit Saint Petersburg
+224,Brazil,Midfielder,Fabinho,32,33,0,0,Saudi Arabian Football Federation,Al-Ittihad
+225,Brazil,Midfielder,Danilo Santos,25,4,2,0,Brazilian Football Confederation,Botafogo
+226,Brazil,Forward,Endrick,19,17,4,0,French Football Federation,Lyon
+227,Brazil,Midfielder,Lucas Paquetá,28,63,13,0,Brazilian Football Confederation,Flamengo
+228,Brazil,Forward,Luiz Henrique,25,15,2,0,Russian Football Union,Zenit Saint Petersburg
+229,Brazil,Forward,Gabriel Martinelli,24,23,4,0,The Football Association,Arsenal
+230,Brazil,Goalkeeper,Ederson Moraes,32,32,0,0,Turkish Football Federation,Fenerbahçe
+231,Brazil,Defender,Roger Ibañez,27,7,0,0,Saudi Arabian Football Federation,Al-Ahli
+232,Brazil,Forward,Igor Thiago,24,4,2,0,The Football Association,Brentford
+233,Brazil,Forward,Rayan,19,2,1,0,The Football Association,Bournemouth
+234,Haiti,Goalkeeper,Johny Placide (captain),38,81,0,0,French Football Federation,Bastia
+235,Haiti,Defender,Carlens Arcus,29,53,1,0,French Football Federation,Angers
+236,Haiti,Defender,Keeto Thermoncy,20,1,0,0,Swiss Football Association,Young Boys
+237,Haiti,Defender,Ricardo Adé,36,59,2,0,Ecuadorian Football Federation,LDU Quito
+238,Haiti,Defender,Hannes Delcroix,27,7,0,0,Swiss Football Association,Lugano
+239,Haiti,Midfielder,Carl Sainté,23,26,0,0,United States Soccer Federation,El Paso Locomotive FC
+240,Haiti,Forward,Derrick Etienne Jr.,29,48,8,0,Canadian Soccer Association,Toronto FC
+241,Haiti,Defender,Martin Expérience,27,21,0,0,French Football Federation,Nancy
+242,Haiti,Forward,Duckens Nazon,32,78,44,0,Football Federation Islamic Republic of Iran,Esteghlal
+243,Haiti,Midfielder,Jean-Ricner Bellegarde,27,10,0,0,The Football Association,Wolverhampton Wanderers
+244,Haiti,Forward,Louicius Deedson,25,32,10,0,United States Soccer Federation,FC Dallas
+245,Haiti,Goalkeeper,Alexandre Pierre,25,15,0,0,French Football Federation,Sochaux
+246,Haiti,Defender,Duke Lacroix,32,16,3,0,United States Soccer Federation,Colorado Springs Switchbacks FC
+247,Haiti,Midfielder,Leverton Pierre,28,33,0,0,Portuguese Football Federation,Vizela
+248,Haiti,Forward,Ruben Providence,24,15,3,0,Royal Dutch Football Association,Almere City
+249,Haiti,Forward,Lenny Joseph,25,2,1,0,Hungarian Football Federation,Ferencváros
+250,Haiti,Midfielder,Danley Jean Jacques,26,30,6,0,United States Soccer Federation,Philadelphia Union
+251,Haiti,Forward,Wilson Isidor,25,4,2,0,The Football Association,Sunderland
+252,Haiti,Forward,Yassin Fortuné,27,4,0,0,Portuguese Football Federation,Vizela
+253,Haiti,Forward,Frantzdy Pierrot,31,51,34,0,Turkish Football Federation,Çaykur Rizespor
+254,Haiti,Forward,Josué Casimir,24,7,0,0,French Football Federation,Auxerre
+255,Haiti,Defender,Jean-Kévin Duverne,28,17,1,0,Royal Belgian Football Association,Gent
+256,Haiti,Goalkeeper,Josué Duverger,26,6,0,0,German Football Association,Cosmos Koblenz
+257,Haiti,Defender,Wilguens Paugain,24,8,0,0,Royal Belgian Football Association,Zulte Waregem
+258,Haiti,Midfielder,Dominique Simon,25,2,0,0,Slovak Football Association,Tatran Prešov
+259,Haiti,Midfielder,Woodensky Pierre,21,1,0,0,Haitian Football Federation,Violette
+260,Morocco,Goalkeeper,Yassine Bounou,35,90,0,0,Saudi Arabian Football Federation,Al-Hilal
+261,Morocco,Defender,Achraf Hakimi (captain),27,96,11,0,French Football Federation,Paris Saint-Germain
+262,Morocco,Defender,Noussair Mazraoui,28,45,2,0,The Football Association,Manchester United
+263,Morocco,Midfielder,Sofyan Amrabat,29,75,0,0,Royal Spanish Football Federation,Real Betis
+264,Morocco,Defender,Nayef Aguerd,30,64,2,0,French Football Federation,Marseille
+265,Morocco,Midfielder,Ayyoub Bouaddi,18,4,0,0,French Football Federation,Lille
+266,Morocco,Midfielder,Chemsdine Talbi,21,5,0,0,The Football Association,Sunderland
+267,Morocco,Midfielder,Azzedine Ounahi,26,49,9,0,Royal Spanish Football Federation,Girona
+268,Morocco,Forward,Soufiane Rahimi,30,37,12,0,United Arab Emirates Football Association,Al Ain
+269,Morocco,Forward,Brahim Díaz,26,26,14,0,Royal Spanish Football Federation,Real Madrid
+270,Morocco,Midfielder,Ismael Saibari,25,31,9,0,Royal Dutch Football Association,PSV Eindhoven
+271,Morocco,Goalkeeper,Munir Mohamedi,37,53,0,0,Royal Moroccan Football Federation,RS Berkane
+272,Morocco,Defender,Zakaria El Ouahdi,24,3,0,0,Royal Belgian Football Association,Genk
+273,Morocco,Defender,Issa Diop,29,4,0,0,The Football Association,Fulham
+274,Morocco,Midfielder,Samir El Mourabet,20,4,0,0,French Football Federation,Strasbourg
+275,Morocco,Midfielder,Gessime Yassine,20,5,0,0,French Football Federation,Strasbourg
+276,Morocco,Forward,Abde Ezzalzouli,24,37,2,0,Royal Spanish Football Federation,Real Betis
+277,Morocco,Defender,Chadi Riad,22,6,1,0,The Football Association,Crystal Palace
+278,Morocco,Defender,Youssef Belammari,27,19,0,0,Egyptian Football Association,Al Ahly
+279,Morocco,Forward,Ayoub El Kaabi,32,71,35,0,Hellenic Football Federation,Olympiacos
+280,Morocco,Forward,Ayoube Amaimouni,21,2,0,0,German Football Association,Eintracht Frankfurt
+281,Morocco,Goalkeeper,Ahmed Reda Tagnaouti,30,3,0,0,Royal Moroccan Football Federation,AS FAR
+282,Morocco,Midfielder,Bilal El Khannouss,22,37,3,0,German Football Association,VfB Stuttgart
+283,Morocco,Midfielder,Neil El Aynaoui,24,16,2,0,Italian Football Federation,Roma
+284,Morocco,Defender,Redouane Halhal,23,3,0,0,Royal Belgian Football Association,Mechelen
+285,Morocco,Defender,Anass Salah-Eddine,24,9,0,0,Royal Dutch Football Association,PSV Eindhoven
+286,Scotland,Goalkeeper,Angus Gunn,30,22,0,0,The Football Association,Nottingham Forest
+287,Scotland,Defender,Aaron Hickey,24,21,0,0,The Football Association,Brentford
+288,Scotland,Defender,Andy Robertson (captain),32,94,4,0,The Football Association,Liverpool
+289,Scotland,Midfielder,Scott McTominay,29,70,15,0,Italian Football Federation,Napoli
+290,Scotland,Defender,Grant Hanley,34,68,2,0,Scottish Football Association,Hibernian
+291,Scotland,Defender,Kieran Tierney,29,56,2,0,Scottish Football Association,Celtic
+292,Scotland,Midfielder,John McGinn,31,86,20,0,The Football Association,Aston Villa
+293,Scotland,Midfielder,Tyler Fletcher,19,2,0,0,The Football Association,Manchester United
+294,Scotland,Forward,Lyndon Dykes,30,51,10,0,The Football Association,Charlton Athletic
+295,Scotland,Forward,Ché Adams,29,47,13,0,Italian Football Federation,Torino
+296,Scotland,Midfielder,Ryan Christie,31,68,10,0,The Football Association,Bournemouth
+297,Scotland,Goalkeeper,Liam Kelly,30,3,0,0,Scottish Football Association,Rangers
+298,Scotland,Defender,Jack Hendry,31,38,3,0,Saudi Arabian Football Federation,Al-Ettifaq
+299,Scotland,Forward,Ross Stewart,29,3,0,0,The Football Association,Southampton
+300,Scotland,Defender,John Souttar,29,24,2,0,Scottish Football Association,Rangers
+301,Scotland,Defender,Dominic Hyam,30,4,0,0,Football Association of Wales,Wrexham
+302,Scotland,Forward,Ben Gannon-Doak,20,14,1,0,The Football Association,Bournemouth
+303,Scotland,Forward,George Hirst,27,10,1,0,The Football Association,Ipswich Town
+304,Scotland,Midfielder,Lewis Ferguson,26,24,1,0,Italian Football Federation,Bologna
+305,Scotland,Forward,Lawrence Shankland,30,20,7,0,Scottish Football Association,Heart of Midlothian
+306,Scotland,Goalkeeper,Craig Gordon,43,84,0,0,Scottish Football Association,Heart of Midlothian
+307,Scotland,Defender,Nathan Patterson,24,26,1,0,The Football Association,Everton
+308,Scotland,Midfielder,Kenny McLean,34,58,3,0,The Football Association,Norwich City
+309,Scotland,Defender,Anthony Ralston,27,27,1,0,Scottish Football Association,Celtic
+310,Scotland,Forward,Findlay Curtis,20,3,1,0,Scottish Football Association,Kilmarnock
+311,Scotland,Defender,Scott McKenna,29,50,1,0,Croatian Football Federation,Dinamo Zagreb
+312,Australia,Goalkeeper,Mathew Ryan (captain),34,104,0,0,Royal Spanish Football Federation,Levante
+313,Australia,Defender,Miloš Degenek,32,57,1,0,Cyprus Football Association,APOEL
+314,Australia,Defender,Alessandro Circati,22,13,1,0,Italian Football Federation,Parma
+315,Australia,Defender,Jacob Italiano,24,5,0,0,Austrian Football Association,Grazer AK
+316,Australia,Defender,Jordan Bos,23,27,4,0,Royal Dutch Football Association,Feyenoord
+317,Australia,Defender,Jason Geria,33,14,0,0,Japan Football Association,Albirex Niigata
+318,Australia,Forward,Mathew Leckie,35,80,14,0,Football Australia,Melbourne City
+319,Australia,Midfielder,Connor Metcalfe,26,36,1,0,German Football Association,FC St. Pauli
+320,Australia,Forward,Mohamed Touré,22,10,2,0,The Football Association,Norwich City
+321,Australia,Forward,Ajdin Hrustic,29,37,4,0,Royal Dutch Football Association,Heracles Almelo
+322,Australia,Forward,Awer Mabil,30,38,10,0,Royal Spanish Football Federation,Castellón
+323,Australia,Goalkeeper,Paul Izzo,31,4,0,0,Danish Football Association,Randers
+324,Australia,Midfielder,Aiden O'Neill,27,31,0,0,United States Soccer Federation,New York City FC
+325,Australia,Midfielder,Cammy Devlin,28,5,0,0,Scottish Football Association,Heart of Midlothian
+326,Australia,Defender,Kai Trewin,25,6,0,0,United States Soccer Federation,New York City FC
+327,Australia,Defender,Aziz Behich,35,84,3,0,Football Australia,Melbourne City
+328,Australia,Forward,Nestory Irankunda,20,15,5,0,The Football Association,Watford
+329,Australia,Goalkeeper,Patrick Beach,22,2,0,0,Football Australia,Melbourne City
+330,Australia,Defender,Harry Souttar,27,38,11,0,The Football Association,Leicester City
+331,Australia,Forward,Cristian Volpato,22,1,0,0,Italian Football Federation,Sassuolo
+332,Australia,Defender,Cameron Burgess,30,27,0,0,Football Association of Wales,Swansea City
+333,Australia,Midfielder,Jackson Irvine,33,82,14,0,German Football Association,FC St. Pauli
+334,Australia,Forward,Nishan Velupillay,25,7,3,0,Football Australia,Melbourne Victory
+335,Australia,Midfielder,Paul Okon-Engstler,21,6,0,0,Football Australia,Sydney FC
+336,Australia,Defender,Lucas Herrington,18,4,0,0,United States Soccer Federation,Colorado Rapids
+337,Australia,Forward,Tete Yengi,25,1,1,0,Japan Football Association,Machida Zelvia
+338,Paraguay,Goalkeeper,Gatito Fernández,38,31,0,0,Paraguayan Football Association,Cerro Porteño
+339,Paraguay,Defender,Gustavo Velázquez,35,13,1,0,Paraguayan Football Association,Cerro Porteño
+340,Paraguay,Defender,Omar Alderete,29,36,3,0,The Football Association,Sunderland
+341,Paraguay,Defender,Juan José Cáceres,26,17,0,0,Russian Football Union,Dynamo Moscow
+342,Paraguay,Defender,Fabián Balbuena,34,48,2,0,Brazilian Football Confederation,Grêmio
+343,Paraguay,Defender,Júnior Alonso,33,71,3,0,Brazilian Football Confederation,Atlético Mineiro
+344,Paraguay,Midfielder,Ramón Sosa,26,29,1,0,Brazilian Football Confederation,Palmeiras
+345,Paraguay,Midfielder,Diego Gómez,23,24,3,0,The Football Association,Brighton & Hove Albion
+346,Paraguay,Forward,Antonio Sanabria,30,48,7,0,Italian Football Federation,Cremonese
+347,Paraguay,Midfielder,Miguel Almirón,32,76,10,0,United States Soccer Federation,Atlanta United FC
+348,Paraguay,Midfielder,Maurício,24,3,0,0,Brazilian Football Confederation,Palmeiras
+349,Paraguay,Goalkeeper,Orlando Gill,26,6,0,0,Argentine Football Association,San Lorenzo
+350,Paraguay,Defender,José Canale,29,2,0,0,Argentine Football Association,Lanús
+351,Paraguay,Midfielder,Andrés Cubas,30,33,0,0,Canadian Soccer Association,Vancouver Whitecaps FC
+352,Paraguay,Defender,Gustavo Gómez (captain),33,89,4,0,Brazilian Football Confederation,Palmeiras
+353,Paraguay,Midfielder,Damián Bobadilla,24,19,1,0,Brazilian Football Confederation,São Paulo
+354,Paraguay,Forward,Kaku,31,33,6,0,United Arab Emirates Football Association,Al Ain
+355,Paraguay,Forward,Álex Arce,30,15,1,0,Argentine Football Association,Independiente Rivadavia
+356,Paraguay,Forward,Julio Enciso,22,32,4,0,French Football Federation,Strasbourg
+357,Paraguay,Midfielder,Braian Ojeda,25,17,0,0,United States Soccer Federation,Orlando City SC
+358,Paraguay,Forward,Gabriel Ávalos,35,23,2,0,Argentine Football Association,Independiente
+359,Paraguay,Goalkeeper,Gastón Olveira,33,1,0,0,Paraguayan Football Association,Olimpia
+360,Paraguay,Midfielder,Matías Galarza,24,15,3,0,United States Soccer Federation,Atlanta United FC
+361,Paraguay,Midfielder,Gustavo Caballero,24,2,1,0,The Football Association,Portsmouth
+362,Paraguay,Forward,Isidro Pitta,26,5,0,0,Brazilian Football Confederation,Red Bull Bragantino
+363,Paraguay,Defender,Alexandro Maidana,20,2,1,0,Argentine Football Association,Talleres
+364,Turkey,Goalkeeper,Mert Günok,37,37,0,0,Turkish Football Federation,Fenerbahçe
+365,Turkey,Defender,Zeki Çelik,29,61,3,0,Italian Football Federation,Roma
+366,Turkey,Defender,Merih Demiral,28,62,6,0,Saudi Arabian Football Federation,Al-Ahli
+367,Turkey,Defender,Çağlar Söyüncü,30,60,2,0,Turkish Football Federation,Fenerbahçe
+368,Turkey,Midfielder,Salih Özcan,28,30,1,0,German Football Association,Borussia Dortmund
+369,Turkey,Midfielder,Orkun Kökçü,25,50,4,0,Turkish Football Federation,Beşiktaş
+370,Turkey,Forward,Kerem Aktürkoğlu,27,52,15,0,Turkish Football Federation,Fenerbahçe
+371,Turkey,Forward,Arda Güler,21,29,6,0,Royal Spanish Football Federation,Real Madrid
+372,Turkey,Forward,Deniz Gül,21,8,2,0,Portuguese Football Federation,Porto
+373,Turkey,Midfielder,Hakan Çalhanoğlu (captain),32,105,22,0,Italian Football Federation,Inter Milan
+374,Turkey,Forward,Kenan Yıldız,21,28,5,0,Italian Football Federation,Juventus
+375,Turkey,Goalkeeper,Altay Bayındır,28,12,0,0,The Football Association,Manchester United
+376,Turkey,Defender,Eren Elmalı,25,23,0,0,Turkish Football Federation,Galatasaray
+377,Turkey,Defender,Abdülkerim Bardakcı,31,27,2,0,Turkish Football Federation,Galatasaray
+378,Turkey,Defender,Ozan Kabak,26,30,2,0,German Football Association,TSG Hoffenheim
+379,Turkey,Midfielder,İsmail Yüksek,27,32,1,0,Turkish Football Federation,Fenerbahçe
+380,Turkey,Forward,İrfan Can Kahveci,30,47,6,0,Turkish Football Federation,Kasımpaşa
+381,Turkey,Defender,Mert Müldür,27,45,3,0,Turkish Football Federation,Fenerbahçe
+382,Turkey,Forward,Yunus Akgün,25,19,4,0,Turkish Football Federation,Galatasaray
+383,Turkey,Defender,Ferdi Kadıoğlu,26,30,2,0,The Football Association,Brighton & Hove Albion
+384,Turkey,Forward,Barış Alper Yılmaz,26,35,4,0,Turkish Football Federation,Galatasaray
+385,Turkey,Midfielder,Kaan Ayhan,31,73,5,0,Turkish Football Federation,Galatasaray
+386,Turkey,Goalkeeper,Uğurcan Çakır,30,39,0,0,Turkish Football Federation,Galatasaray
+387,Turkey,Forward,Oğuz Aydın,25,11,0,0,Turkish Football Federation,Fenerbahçe
+388,Turkey,Defender,Samet Akaydin,32,19,1,0,Turkish Football Federation,Çaykur Rizespor
+389,Turkey,Forward,Can Uzun,20,6,1,0,German Football Association,Eintracht Frankfurt
+390,United States,Goalkeeper,Matt Turner,31,54,0,0,United States Soccer Federation,New England Revolution
+391,United States,Defender,Sergiño Dest,25,39,3,0,Royal Dutch Football Association,PSV Eindhoven
+392,United States,Defender,Chris Richards,26,36,3,0,The Football Association,Crystal Palace
+393,United States,Midfielder,Tyler Adams,27,54,2,0,The Football Association,Bournemouth
+394,United States,Defender,Antonee Robinson,28,54,5,0,The Football Association,Fulham
+395,United States,Defender,Auston Trusty,27,8,0,0,Scottish Football Association,Celtic
+396,United States,Midfielder,Giovanni Reyna,23,38,9,0,German Football Association,Borussia Mönchengladbach
+397,United States,Midfielder,Weston McKennie,27,66,12,0,Italian Football Federation,Juventus
+398,United States,Forward,Ricardo Pepi,23,37,13,0,Royal Dutch Football Association,PSV Eindhoven
+399,United States,Forward,Christian Pulisic,27,86,33,0,Italian Football Federation,Milan
+400,United States,Forward,Brenden Aaronson,25,58,9,0,The Football Association,Leeds United
+401,United States,Defender,Miles Robinson,29,40,3,0,United States Soccer Federation,FC Cincinnati
+402,United States,Defender,Tim Ream (captain),38,82,1,0,United States Soccer Federation,Charlotte FC
+403,United States,Midfielder,Sebastian Berhalter,25,13,1,0,Canadian Soccer Association,Vancouver Whitecaps FC
+404,United States,Midfielder,Cristian Roldan,31,47,0,0,United States Soccer Federation,Seattle Sounders FC
+405,United States,Defender,Alex Freeman,21,17,2,0,Royal Spanish Football Federation,Villarreal
+406,United States,Midfielder,Malik Tillman,24,30,3,0,German Football Association,Bayer Leverkusen
+407,United States,Defender,Max Arfsten,25,20,1,0,United States Soccer Federation,Columbus Crew
+408,United States,Forward,Haji Wright,28,20,7,0,The Football Association,Coventry City
+409,United States,Forward,Folarin Balogun,24,27,9,0,French Football Federation,Monaco
+410,United States,Forward,Timothy Weah,26,51,7,0,French Football Federation,Marseille
+411,United States,Defender,Mark McKenzie,27,29,0,0,French Football Federation,Toulouse
+412,United States,Defender,Joe Scally,23,26,0,0,German Football Association,Borussia Mönchengladbach
+413,United States,Goalkeeper,Matt Freese,27,15,0,0,United States Soccer Federation,New York City FC
+414,United States,Goalkeeper,Chris Brady,22,1,0,0,United States Soccer Federation,Chicago Fire FC
+415,United States,Forward,Alejandro Zendejas,28,14,2,0,Mexican Football Federation,América
+416,Curacao,Goalkeeper,Eloy Room,37,71,0,0,United States Soccer Federation,Miami FC
+417,Curacao,Defender,Shurandy Sambo,24,8,0,0,Royal Dutch Football Association,Sparta Rotterdam
+418,Curacao,Defender,Juriën Gaari,32,60,1,0,Saudi Arabian Football Federation,Abha
+419,Curacao,Defender,Roshon van Eijma,28,28,1,0,Royal Dutch Football Association,RKC Waalwijk
+420,Curacao,Defender,Sherel Floranus,27,28,0,0,Royal Dutch Football Association,PEC Zwolle
+421,Curacao,Midfielder,Godfried Roemeratoe,26,28,1,0,Royal Dutch Football Association,RKC Waalwijk
+422,Curacao,Midfielder,Juninho Bacuna,28,49,15,0,Royal Dutch Football Association,Volendam
+423,Curacao,Midfielder,Livano Comenencia,22,20,2,0,Swiss Football Association,Zürich
+424,Curacao,Forward,Jürgen Locadia,32,13,1,0,United States Soccer Federation,Miami FC
+425,Curacao,Midfielder,Leandro Bacuna (captain),34,72,16,0,Turkish Football Federation,Iğdır
+426,Curacao,Forward,Jeremy Antonisse,24,27,4,0,Hellenic Football Federation,Kifisia
+427,Curacao,Forward,Sontje Hansen,24,6,1,0,The Football Association,Middlesbrough
+428,Curacao,Forward,Tyrese Noslin,23,7,1,0,Royal Dutch Football Association,Telstar
+429,Curacao,Forward,Kenji Gorré,31,38,6,0,Israel Football Association,Maccabi Haifa
+430,Curacao,Midfielder,Ar'jany Martha,22,9,2,0,The Football Association,Rotherham United
+431,Curacao,Forward,Jearl Margaritha,26,22,5,0,Royal Belgian Football Association,Beveren
+432,Curacao,Forward,Brandley Kuwas,33,35,2,0,Royal Dutch Football Association,Volendam
+433,Curacao,Defender,Armando Obispo,27,6,0,0,Royal Dutch Football Association,PSV Eindhoven
+434,Curacao,Forward,Gervane Kastaneer,30,29,9,0,Football Association of Malaysia,Terengganu
+435,Curacao,Defender,Joshua Brenet,32,18,2,0,Turkish Football Federation,Kayserispor
+436,Curacao,Midfielder,Tahith Chong,26,6,3,0,The Football Association,Sheffield United
+437,Curacao,Midfielder,Kevin Felida,26,19,1,0,Royal Dutch Football Association,Den Bosch
+438,Curacao,Defender,Riechedly Bazoer,29,5,0,0,Turkish Football Federation,Konyaspor
+439,Curacao,Defender,Deveron Fonville,23,2,0,0,Royal Dutch Football Association,NEC
+440,Curacao,Goalkeeper,Tyrick Bodak,24,4,0,0,Royal Dutch Football Association,Telstar
+441,Curacao,Goalkeeper,Trevor Doornbusch,26,8,0,0,Royal Dutch Football Association,VVV-Venlo
+442,Ecuador,Goalkeeper,Hernán Galíndez,39,35,0,0,Argentine Football Federation,Huracán
+443,Ecuador,Defender,Félix Torres,29,49,5,0,Brazilian Football Confederation,Internacional
+444,Ecuador,Defender,Piero Hincapié,24,52,3,0,The Football Association,Arsenal
+445,Ecuador,Defender,Joel Ordóñez,22,17,0,0,Royal Belgian Football Association,Club Brugge
+446,Ecuador,Midfielder,Jordy Alcívar,26,11,1,0,Ecuadorian Football Federation,Independiente del Valle
+447,Ecuador,Defender,Willian Pacho,24,34,2,0,French Football Federation,Paris Saint-Germain
+448,Ecuador,Defender,Pervis Estupiñán,28,54,5,0,Italian Football Federation,Milan
+449,Ecuador,Midfielder,Anthony Valencia,22,3,1,0,Royal Belgian Football Association,Antwerp
+450,Ecuador,Forward,John Yeboah,25,23,3,0,Italian Football Federation,Venezia
+451,Ecuador,Midfielder,Kendry Páez,19,26,2,0,Argentine Football Federation,River Plate
+452,Ecuador,Forward,Kevin Rodríguez,26,31,2,0,Royal Belgian Football Association,Union Saint-Gilloise
+453,Ecuador,Goalkeeper,Moisés Ramírez,25,7,0,0,Hellenic Football Federation,Kifisia
+454,Ecuador,Forward,Enner Valencia (captain),36,105,49,0,Mexican Football Federation,Pachuca
+455,Ecuador,Midfielder,Alan Minda,23,20,2,0,Brazilian Football Confederation,Atlético Mineiro
+456,Ecuador,Midfielder,Pedro Vite,24,17,1,0,Mexican Football Federation,UNAM
+457,Ecuador,Forward,Jordy Caicedo,28,20,4,0,Argentine Football Association,Huracán
+458,Ecuador,Defender,Ángelo Preciado,28,55,0,0,Brazilian Football Confederation,Atlético Mineiro
+459,Ecuador,Midfielder,Denil Castillo,22,5,0,0,Danish Football Association,Midtjylland
+460,Ecuador,Forward,Gonzalo Plata,25,50,8,0,Brazilian Football Confederation,Flamengo
+461,Ecuador,Forward,Nilson Angulo,22,14,2,0,The Football Association,Sunderland
+462,Ecuador,Midfielder,Alan Franco,27,58,1,0,Brazilian Football Confederation,Atlético Mineiro
+463,Ecuador,Goalkeeper,Gonzalo Valle,30,4,0,0,Ecuadorian Football Federation,LDU Quito
+464,Ecuador,Midfielder,Moisés Caicedo,24,61,3,0,The Football Association,Chelsea
+465,Ecuador,Forward,Jeremy Arévalo,21,4,0,0,German Football Association,VfB Stuttgart
+466,Ecuador,Defender,Jackson Porozo,25,10,1,0,Mexican Football Federation,Tijuana
+467,Ecuador,Defender,Yaimar Medina,21,6,0,0,Royal Belgian Football Association,Genk
+468,Germany,Goalkeeper,Manuel Neuer,40,124,0,0,German Football Association,Bayern Munich
+469,Germany,Defender,Antonio Rüdiger,33,82,3,0,Royal Spanish Football Federation,Real Madrid
+470,Germany,Defender,Waldemar Anton,29,13,0,0,German Football Association,Borussia Dortmund
+471,Germany,Defender,Jonathan Tah,30,47,1,0,German Football Association,Bayern Munich
+472,Germany,Midfielder,Aleksandar Pavlović,22,11,1,0,German Football Association,Bayern Munich
+473,Germany,Defender,Joshua Kimmich (captain),31,110,10,0,German Football Association,Bayern Munich
+474,Germany,Forward,Kai Havertz,27,58,22,0,The Football Association,Arsenal
+475,Germany,Midfielder,Leon Goretzka,31,70,15,0,German Football Association,Bayern Munich
+476,Germany,Midfielder,Jamie Leweling,25,5,1,0,German Football Association,VfB Stuttgart
+477,Germany,Midfielder,Jamal Musiala,23,42,9,0,German Football Association,Bayern Munich
+478,Germany,Forward,Nick Woltemade,24,11,4,0,The Football Association,Newcastle United
+479,Germany,Goalkeeper,Oliver Baumann,36,13,0,0,German Football Association,TSG Hoffenheim
+480,Germany,Midfielder,Pascal Groß,34,18,1,0,The Football Association,Brighton & Hove Albion
+481,Germany,Forward,Maximilian Beier,23,9,0,0,German Football Association,Borussia Dortmund
+482,Germany,Defender,Nico Schlotterbeck,26,27,0,0,German Football Association,Borussia Dortmund
+483,Germany,Midfielder,Angelo Stiller,25,8,0,0,German Football Association,VfB Stuttgart
+484,Germany,Midfielder,Florian Wirtz,23,41,11,0,The Football Association,Liverpool
+485,Germany,Defender,Nathaniel Brown,22,5,0,0,German Football Association,Eintracht Frankfurt
+486,Germany,Midfielder,Leroy Sané,30,76,17,0,Turkish Football Federation,Galatasaray
+487,Germany,Midfielder,Nadiem Amiri,29,11,1,0,German Football Association,Mainz 05
+488,Germany,Goalkeeper,Alexander Nübel,29,3,0,0,German Football Association,VfB Stuttgart
+489,Germany,Defender,David Raum,28,37,1,0,German Football Association,RB Leipzig
+490,Germany,Midfielder,Felix Nmecha,25,8,1,0,German Football Association,Borussia Dortmund
+491,Germany,Defender,Malick Thiaw,24,5,0,0,The Football Association,Newcastle United
+492,Germany,Midfielder,Assan Ouédraogo,20,1,1,0,German Football Association,RB Leipzig
+493,Germany,Forward,Deniz Undav,29,9,6,0,German Football Association,VfB Stuttgart
+494,Ivory Coast,Goalkeeper,Yahia Fofana,25,35,0,0,Turkish Football Federation,Çaykur Rizespor
+495,Ivory Coast,Defender,Ousmane Diomande,22,15,1,0,Portuguese Football Federation,Sporting CP
+496,Ivory Coast,Defender,Ghislain Konan,30,54,0,0,Portuguese Football Federation,Gil Vicente
+497,Ivory Coast,Midfielder,Jean Michaël Seri,34,65,4,0,Football Association of Slovenia,Maribor
+498,Ivory Coast,Defender,Wilfried Singo,25,34,1,0,Turkish Football Federation,Galatasaray
+499,Ivory Coast,Midfielder,Seko Fofana,31,32,7,0,Portuguese Football Federation,Porto
+500,Ivory Coast,Defender,Odilon Kossounou,25,35,0,0,Italian Football Federation,Atalanta
+501,Ivory Coast,Midfielder,Franck Kessié (captain),29,103,15,0,Saudi Arabian Football Federation,Al-Ahli
+502,Ivory Coast,Forward,Ange-Yoan Bonny,22,1,0,0,Italian Football Federation,Inter Milan
+503,Ivory Coast,Forward,Simon Adingra,24,29,5,0,French Football Federation,Monaco
+504,Ivory Coast,Forward,Yan Diomande,19,10,3,0,German Football Association,RB Leipzig
+505,Ivory Coast,Forward,Elye Wahi,23,2,0,0,French Football Federation,Nice
+506,Ivory Coast,Defender,Christopher Opéri,29,12,0,0,Turkish Football Federation,İstanbul Başakşehir
+507,Ivory Coast,Forward,Oumar Diakité,22,29,6,0,Royal Belgian Football Association,Cercle Brugge
+508,Ivory Coast,Forward,Amad Diallo,23,19,6,0,The Football Association,Manchester United
+509,Ivory Coast,Goalkeeper,Mohamed Koné,24,0,0,0,Royal Belgian Football Association,Charleroi
+510,Ivory Coast,Defender,Guéla Doué,23,20,3,0,French Football Federation,Strasbourg
+511,Ivory Coast,Midfielder,Ibrahim Sangaré,28,58,12,0,The Football Association,Nottingham Forest
+512,Ivory Coast,Forward,Nicolas Pépé,31,55,12,0,Royal Spanish Football Federation,Villarreal
+513,Ivory Coast,Defender,Emmanuel Agbadou,28,20,2,0,Turkish Football Federation,Beşiktaş
+514,Ivory Coast,Defender,Evan Ndicka,26,28,0,0,Italian Football Federation,Roma
+515,Ivory Coast,Forward,Evann Guessand,24,21,4,0,The Football Association,Crystal Palace
+516,Ivory Coast,Goalkeeper,Alban Lafont,27,4,0,0,Hellenic Football Federation,Panathinaikos
+517,Ivory Coast,Forward,Bazoumana Touré,20,6,2,0,German Football Association,TSG Hoffenheim
+518,Ivory Coast,Midfielder,Parfait Guiagon,25,5,0,0,Royal Belgian Football Association,Charleroi
+519,Ivory Coast,Midfielder,Christ Inao Oulaï,20,9,0,0,Turkish Football Federation,Trabzonspor
+520,Japan,Goalkeeper,Zion Suzuki,23,24,0,0,Italian Football Federation,Parma
+521,Japan,Defender,Yukinari Sugawara,25,21,2,0,German Football Association,Werder Bremen
+522,Japan,Defender,Shōgo Taniguchi,34,38,1,0,Royal Belgian Football Association,Sint-Truiden
+523,Japan,Defender,Kō Itakura,29,40,2,0,Royal Dutch Football Association,Ajax
+524,Japan,Defender,Yūto Nagatomo,39,145,4,0,Japan Football Association,FC Tokyo
+525,Japan,Midfielder,Wataru Endo (captain),33,73,4,0,The Football Association,Liverpool
+526,Japan,Midfielder,Ao Tanaka,27,38,8,0,The Football Association,Leeds United
+527,Japan,Midfielder,Takefusa Kubo,25,49,7,0,Royal Spanish Football Federation,Real Sociedad
+528,Japan,Forward,Keisuke Gotō,21,4,0,0,Royal Belgian Football Association,Sint-Truiden
+529,Japan,Midfielder,Ritsu Dōan,27,65,11,0,German Football Association,Eintracht Frankfurt
+530,Japan,Midfielder,Daizen Maeda,28,27,4,0,Scottish Football Association,Celtic
+531,Japan,Goalkeeper,Keisuke Ōsako,26,11,0,0,Japan Football Association,Sanfrecce Hiroshima
+532,Japan,Midfielder,Keito Nakamura,25,25,10,0,French Football Federation,Reims
+533,Japan,Midfielder,Junya Itō,33,69,15,0,Royal Belgian Football Association,Genk
+534,Japan,Midfielder,Daichi Kamada,29,49,12,0,The Football Association,Crystal Palace
+535,Japan,Defender,Tsuyoshi Watanabe,29,11,0,0,Royal Dutch Football Association,Feyenoord
+536,Japan,Midfielder,Yuito Suzuki,24,6,0,0,German Football Association,SC Freiburg
+537,Japan,Forward,Ayase Ueda,27,39,16,0,Royal Dutch Football Association,Feyenoord
+538,Japan,Forward,Kōki Ogawa,28,15,11,0,Royal Dutch Football Association,NEC
+539,Japan,Defender,Ayumu Seko,26,14,0,0,French Football Federation,Le Havre
+540,Japan,Defender,Hiroki Itō,27,24,1,0,German Football Association,Bayern Munich
+541,Japan,Defender,Takehiro Tomiyasu,27,43,1,0,Royal Dutch Football Association,Ajax
+542,Japan,Goalkeeper,Tomoki Hayakawa,27,4,0,0,Japan Football Association,Kashima Antlers
+543,Japan,Midfielder,Kaishū Sano,25,13,0,0,German Football Association,Mainz 05
+544,Japan,Defender,Junnosuke Suzuki,22,6,0,0,Danish Football Association,Copenhagen
+545,Japan,Forward,Kento Shiogai,21,2,0,0,German Football Association,VfL Wolfsburg
+546,Netherlands,Goalkeeper,Bart Verbruggen,23,29,0,0,The Football Association,Brighton & Hove Albion
+547,Netherlands,Defender,Lutsharel Geertruida,25,21,0,0,The Football Association,Sunderland
+548,Netherlands,Midfielder,Marten de Roon,35,43,1,0,Italian Football Federation,Atalanta
+549,Netherlands,Defender,Virgil van Dijk (captain),34,92,12,0,The Football Association,Liverpool
+550,Netherlands,Defender,Nathan Aké,31,59,5,0,The Football Association,Manchester City
+551,Netherlands,Defender,Jan Paul van Hecke,26,12,0,0,The Football Association,Brighton & Hove Albion
+552,Netherlands,Midfielder,Justin Kluivert,27,12,0,0,The Football Association,Bournemouth
+553,Netherlands,Midfielder,Ryan Gravenberch,24,27,1,0,The Football Association,Liverpool
+554,Netherlands,Forward,Wout Weghorst,33,52,14,0,Royal Dutch Football Association,Ajax
+555,Netherlands,Forward,Memphis Depay,32,109,55,0,Brazilian Football Confederation,Corinthians
+556,Netherlands,Forward,Cody Gakpo,27,50,21,0,The Football Association,Liverpool
+557,Netherlands,Defender,Mats Wieffer,26,15,1,0,The Football Association,Brighton & Hove Albion
+558,Netherlands,Goalkeeper,Robin Roefs,23,1,0,0,The Football Association,Sunderland
+559,Netherlands,Midfielder,Tijjani Reijnders,27,32,7,0,The Football Association,Manchester City
+560,Netherlands,Defender,Micky van de Ven,25,21,1,0,The Football Association,Tottenham Hotspur
+561,Netherlands,Midfielder,Guus Til,28,7,1,0,Royal Dutch Football Association,PSV Eindhoven
+562,Netherlands,Forward,Noa Lang,26,15,3,0,Turkish Football Federation,Galatasaray
+563,Netherlands,Forward,Donyell Malen,27,53,13,0,Italian Football Federation,Roma
+564,Netherlands,Forward,Brian Brobbey,24,12,1,0,The Football Association,Sunderland
+565,Netherlands,Midfielder,Teun Koopmeiners,28,28,3,0,Italian Football Federation,Juventus
+566,Netherlands,Midfielder,Frenkie de Jong,29,66,2,0,Royal Spanish Football Federation,Barcelona
+567,Netherlands,Defender,Denzel Dumfries,30,72,11,0,Italian Football Federation,Inter Milan
+568,Netherlands,Goalkeeper,Mark Flekken,32,12,0,0,German Football Association,Bayer Leverkusen
+569,Netherlands,Forward,Crysencio Summerville,24,2,0,0,The Football Association,West Ham United
+570,Netherlands,Defender,Jorrel Hato,20,8,0,0,The Football Association,Chelsea
+571,Netherlands,Midfielder,Quinten Timber,24,11,1,0,French Football Federation,Marseille
+572,Sweden,Goalkeeper,Jacob Widell Zetterström,27,3,0,0,The Football Association,Derby County
+573,Sweden,Defender,Gustaf Lagerbielke,26,11,2,0,Portuguese Football Federation,Braga
+574,Sweden,Defender,Victor Lindelöf (captain),31,76,3,0,The Football Association,Aston Villa
+575,Sweden,Defender,Isak Hien,27,29,0,0,Italian Football Federation,Atalanta
+576,Sweden,Defender,Gabriel Gudmundsson,27,24,0,0,The Football Association,Leeds United
+577,Sweden,Defender,Herman Johansson,28,3,0,0,United States Soccer Federation,FC Dallas
+578,Sweden,Midfielder,Lucas Bergvall,20,10,0,0,The Football Association,Tottenham Hotspur
+579,Sweden,Defender,Daniel Svensson,24,13,0,0,German Football Association,Borussia Dortmund
+580,Sweden,Forward,Alexander Isak,26,58,17,0,The Football Association,Liverpool
+581,Sweden,Midfielder,Benjamin Nygren,24,11,3,0,Scottish Football Association,Celtic
+582,Sweden,Forward,Anthony Elanga,24,30,6,0,The Football Association,Newcastle United
+583,Sweden,Goalkeeper,Viktor Johansson,27,12,0,0,The Football Association,Stoke City
+584,Sweden,Midfielder,Ken Sema,32,33,5,0,Cyprus Football Association,Pafos
+585,Sweden,Defender,Hjalmar Ekdal,27,13,0,0,The Football Association,Burnley
+586,Sweden,Defender,Carl Starfelt,31,18,0,0,Royal Spanish Football Federation,Celta Vigo
+587,Sweden,Midfielder,Jesper Karlström,30,25,0,0,Italian Football Federation,Udinese
+588,Sweden,Forward,Viktor Gyökeres,28,33,20,0,The Football Association,Arsenal
+589,Sweden,Midfielder,Yasin Ayari,22,21,3,0,The Football Association,Brighton & Hove Albion
+590,Sweden,Midfielder,Mattias Svanberg,27,41,2,0,German Football Association,VfL Wolfsburg
+591,Sweden,Defender,Eric Smith,29,2,0,0,German Football Association,FC St. Pauli
+592,Sweden,Defender,Alexander Bernhardsson,27,11,0,0,German Football Association,Holstein Kiel
+593,Sweden,Midfielder,Besfort Zeneli,23,8,0,0,Royal Belgian Football Association,Union Saint-Gilloise
+594,Sweden,Goalkeeper,Kristoffer Nordfeldt,36,21,0,0,Swedish Football Association,AIK
+595,Sweden,Defender,Elliot Stroud,23,1,0,0,Swedish Football Association,Mjällby AIF
+596,Sweden,Forward,Gustaf Nilsson,29,10,4,0,Royal Belgian Football Association,Club Brugge
+597,Sweden,Forward,Taha Ali,27,2,0,0,Swedish Football Association,Malmö FF
+598,Tunisia,Goalkeeper,Mouhib Chamakh,24,2,0,0,Tunisian Football Federation,Club Africain
+599,Tunisia,Defender,Ali Abdi,32,46,7,0,French Football Federation,Nice
+600,Tunisia,Defender,Montassar Talbi,28,64,4,0,French Football Federation,Lorient
+601,Tunisia,Defender,Omar Rekik,24,6,0,0,Football Association of Slovenia,Maribor
+602,Tunisia,Defender,Adem Arous,21,2,0,0,Turkish Football Federation,Kasımpaşa
+603,Tunisia,Defender,Dylan Bronn,30,52,2,0,Swiss Football Association,Servette
+604,Tunisia,Forward,Elias Achouri,27,30,4,0,Danish Football Association,Copenhagen
+605,Tunisia,Forward,Elias Saad,26,15,4,0,German Football Association,Hannover 96
+606,Tunisia,Forward,Hazem Mastouri,28,19,4,0,Russian Football Union,Dynamo Makhachkala
+607,Tunisia,Midfielder,Hannibal Mejbri,23,45,1,0,The Football Association,Burnley
+608,Tunisia,Midfielder,Ismaël Gharbi,22,17,2,0,German Football Association,FC Augsburg
+609,Tunisia,Defender,Mortadha Ben Ouanes,31,18,0,0,Turkish Football Federation,Kasımpaşa
+610,Tunisia,Midfielder,Rani Khedira,32,3,0,0,German Football Association,Union Berlin
+611,Tunisia,Midfielder,Khalil Ayari,21,4,0,0,French Football Federation,Paris Saint-Germain
+612,Tunisia,Midfielder,Hadj Mahmoud,26,9,0,0,Swiss Football Association,Lugano
+613,Tunisia,Goalkeeper,Aymen Dahmen,29,37,0,0,Tunisian Football Federation,CS Sfaxien
+614,Tunisia,Midfielder,Ellyes Skhiri (captain),31,83,4,0,German Football Association,Eintracht Frankfurt
+615,Tunisia,Forward,Rayan Elloumi,18,4,0,0,Canadian Soccer Association,Vancouver Whitecaps FC
+616,Tunisia,Forward,Firas Chaouat,30,30,6,0,Tunisian Football Federation,Club Africain
+617,Tunisia,Defender,Yan Valery,27,22,0,0,Swiss Football Association,Young Boys
+618,Tunisia,Defender,Mohamed Amine Ben Hamida,30,13,0,0,Tunisian Football Federation,Espérance de Tunis
+619,Tunisia,Goalkeeper,Sabri Ben Hessen,29,2,0,0,Tunisian Football Federation,Étoile du Sahel
+620,Tunisia,Defender,Moutaz Neffati,21,5,0,0,Swedish Football Association,IFK Norrköping
+621,Tunisia,Defender,Raed Chikhaoui,22,0,0,0,Tunisian Football Federation,US Monastir
+622,Tunisia,Midfielder,Anis Ben Slimane,25,41,4,0,The Football Association,Norwich City
+623,Tunisia,Midfielder,Sebastian Tounekti,23,12,1,0,Scottish Football Association,Celtic
+624,Belgium,Goalkeeper,Thibaut Courtois,34,109,0,0,Royal Spanish Football Federation,Real Madrid
+625,Belgium,Defender,Zeno Debast,22,26,1,0,Portuguese Football Federation,Sporting CP
+626,Belgium,Defender,Arthur Theate,26,33,1,0,German Football Association,Eintracht Frankfurt
+627,Belgium,Defender,Brandon Mechele,33,9,1,0,Royal Belgian Football Association,Club Brugge
+628,Belgium,Defender,Maxim De Cuyper,25,19,4,0,The Football Association,Brighton & Hove Albion
+629,Belgium,Midfielder,Axel Witsel,37,138,12,0,Royal Spanish Football Federation,Girona
+630,Belgium,Midfielder,Kevin De Bruyne,34,119,37,0,Italian Football Federation,Napoli
+631,Belgium,Midfielder,Youri Tielemans (captain),29,85,13,0,The Football Association,Aston Villa
+632,Belgium,Forward,Romelu Lukaku,33,126,90,0,Italian Football Federation,Napoli
+633,Belgium,Forward,Leandro Trossard,31,51,12,0,The Football Association,Arsenal
+634,Belgium,Forward,Jérémy Doku,24,43,7,0,The Football Association,Manchester City
+635,Belgium,Goalkeeper,Senne Lammens,23,2,0,0,The Football Association,Manchester United
+636,Belgium,Goalkeeper,Mike Penders,20,0,0,0,French Football Federation,Strasbourg
+637,Belgium,Forward,Dodi Lukébakio,28,30,6,0,Portuguese Football Federation,Benfica
+638,Belgium,Defender,Thomas Meunier,34,80,10,0,French Football Federation,Lille
+639,Belgium,Defender,Koni De Winter,23,8,0,0,Italian Football Federation,Milan
+640,Belgium,Forward,Charles De Ketelaere,25,30,6,0,Italian Football Federation,Atalanta
+641,Belgium,Defender,Joaquin Seys,21,5,0,0,Royal Belgian Football Association,Club Brugge
+642,Belgium,Midfielder,Diego Moreira,21,3,0,0,French Football Federation,Strasbourg
+643,Belgium,Midfielder,Hans Vanaken,33,34,7,0,Royal Belgian Football Association,Club Brugge
+644,Belgium,Defender,Timothy Castagne,30,63,2,0,The Football Association,Fulham
+645,Belgium,Midfielder,Alexis Saelemaekers,26,24,2,0,Italian Football Federation,Milan
+646,Belgium,Midfielder,Nicolas Raskin,25,13,2,0,Scottish Football Association,Rangers
+647,Belgium,Midfielder,Amadou Onana,24,29,1,0,The Football Association,Aston Villa
+648,Belgium,Defender,Nathan Ngoy,23,4,0,0,French Football Federation,Lille
+649,Belgium,Forward,Matias Fernandez-Pardo,21,2,0,0,French Football Federation,Lille
+650,Egypt,Goalkeeper,Mohamed El Shenawy,37,76,0,0,Egyptian Football Association,Al Ahly
+651,Egypt,Defender,Yasser Ibrahim,33,17,1,0,Egyptian Football Association,Al Ahly
+652,Egypt,Defender,Mohamed Hany,30,42,0,0,Egyptian Football Association,Al Ahly
+653,Egypt,Defender,Hossam Abdelmaguid,25,13,0,0,Egyptian Football Association,Zamalek
+654,Egypt,Defender,Ramy Rabia,33,44,5,0,United Arab Emirates Football Association,Al Ain
+655,Egypt,Defender,Mohamed Abdelmonem,27,36,3,0,French Football Federation,Nice
+656,Egypt,Forward,Trézéguet,31,96,23,0,Egyptian Football Association,Al Ahly
+657,Egypt,Midfielder,Emam Ashour,28,29,0,0,Egyptian Football Association,Al Ahly
+658,Egypt,Forward,Hamza Abdelkarim,18,2,0,0,Royal Spanish Football Federation,Barcelona B
+659,Egypt,Forward,Mohamed Salah (captain),33,116,67,0,The Football Association,Liverpool
+660,Egypt,Midfielder,Mostafa Ziko,29,2,2,0,Egyptian Football Association,Pyramids
+661,Egypt,Forward,Haissem Hassan,24,4,0,0,Royal Spanish Football Federation,Oviedo
+662,Egypt,Defender,Ahmed Fatouh,28,39,1,0,Egyptian Football Association,Zamalek
+663,Egypt,Midfielder,Hamdy Fathy,31,63,3,0,Qatar Football Association,Al-Wakrah
+664,Egypt,Defender,Karim Hafez,30,9,0,0,Egyptian Football Association,Pyramids
+665,Egypt,Goalkeeper,El Mahdy Soliman,39,0,0,0,Egyptian Football Association,Zamalek
+666,Egypt,Midfielder,Mohanad Lasheen,30,23,0,0,Egyptian Football Association,Pyramids
+667,Egypt,Midfielder,Nabil Emad,30,12,0,0,Saudi Arabian Football Federation,Al-Najma
+668,Egypt,Midfielder,Marwan Attia,27,34,1,0,Egyptian Football Association,Al Ahly
+669,Egypt,Forward,Ibrahim Adel,25,24,3,0,Danish Football Association,Nordsjælland
+670,Egypt,Midfielder,Mahmoud Saber,24,15,1,0,Egyptian Football Association,ZED
+671,Egypt,Forward,Omar Marmoush,27,49,11,0,The Football Association,Manchester City
+672,Egypt,Goalkeeper,Mostafa Shobeir,26,9,0,0,Egyptian Football Association,Al Ahly
+673,Egypt,Defender,Tarek Alaa,24,3,0,0,Egyptian Football Association,ZED
+674,Egypt,Forward,Zizo,30,63,5,0,Egyptian Football Association,Al Ahly
+675,Egypt,Goalkeeper,Mohamed Alaa,27,0,0,0,Egyptian Football Association,El Gouna
+676,Iran,Goalkeeper,Alireza Beiranvand,33,86,0,0,Football Federation Islamic Republic of Iran,Tractor
+677,Iran,Defender,Saleh Hardani,27,18,1,0,Football Federation Islamic Republic of Iran,Esteghlal
+678,Iran,Defender,Ehsan Hajsafi (captain),36,146,7,0,Football Federation Islamic Republic of Iran,Sepahan
+679,Iran,Defender,Shojae Khalilzadeh,37,58,2,0,Football Federation Islamic Republic of Iran,Tractor
+680,Iran,Defender,Milad Mohammadi,32,76,1,0,Football Federation Islamic Republic of Iran,Persepolis
+681,Iran,Midfielder,Saeid Ezatolahi,29,83,2,0,United Arab Emirates Football Association,Shabab Al Ahli
+682,Iran,Midfielder,Alireza Jahanbakhsh,32,98,17,0,Royal Belgian Football Association,Dender
+683,Iran,Midfielder,Mohammad Mohebi,27,36,14,0,Russian Football Union,Rostov
+684,Iran,Forward,Mehdi Taremi,33,105,60,0,Hellenic Football Federation,Olympiacos
+685,Iran,Forward,Mehdi Ghayedi,27,30,10,0,United Arab Emirates Football Association,Al Nasr
+686,Iran,Forward,Ali Alipour,30,14,1,0,Football Federation Islamic Republic of Iran,Persepolis
+687,Iran,Goalkeeper,Payam Niazmand,31,15,0,0,Football Federation Islamic Republic of Iran,Persepolis
+688,Iran,Defender,Hossein Kanaanizadegan,32,65,6,0,Football Federation Islamic Republic of Iran,Persepolis
+689,Iran,Midfielder,Saman Ghoddos,32,68,3,0,United Arab Emirates Football Association,Kalba
+690,Iran,Midfielder,Rouzbeh Cheshmi,32,40,3,0,Football Federation Islamic Republic of Iran,Esteghlal
+691,Iran,Midfielder,Mehdi Torabi,31,52,7,0,Football Federation Islamic Republic of Iran,Tractor
+692,Iran,Defender,Aria Yousefi,24,14,1,0,Football Federation Islamic Republic of Iran,Sepahan
+693,Iran,Forward,Amirhossein Hosseinzadeh,25,18,5,0,Football Federation Islamic Republic of Iran,Tractor
+694,Iran,Defender,Ali Nemati,30,17,0,0,Football Federation Islamic Republic of Iran,Foolad
+695,Iran,Forward,Shahriyar Moghanlou,31,21,2,0,United Arab Emirates Football Association,Kalba
+696,Iran,Midfielder,Mohammad Ghorbani,24,16,0,0,United Arab Emirates Football Association,Al Wahda
+697,Iran,Goalkeeper,Hossein Hosseini,33,13,0,0,Football Federation Islamic Republic of Iran,Sepahan
+698,Iran,Defender,Ramin Rezaeian,36,74,8,0,Football Federation Islamic Republic of Iran,Foolad
+699,Iran,Forward,Dennis Eckert,29,0,0,0,Royal Belgian Football Association,Standard Liège
+700,Iran,Defender,Danial Eiri,22,0,0,0,Football Federation Islamic Republic of Iran,Malavan
+701,Iran,Midfielder,Amirmohammad Razzaghinia,20,4,0,0,Football Federation Islamic Republic of Iran,Esteghlal
+702,New Zealand,Goalkeeper,Max Crocombe,32,24,0,0,The Football Association,Millwall
+703,New Zealand,Defender,Tim Payne,32,51,3,0,New Zealand Football,Wellington Phoenix
+704,New Zealand,Defender,Francis de Vries,31,20,1,0,New Zealand Football,Auckland FC
+705,New Zealand,Defender,Tyler Bindon,21,25,3,0,The Football Association,Sheffield United
+706,New Zealand,Defender,Michael Boxall,37,63,1,0,United States Soccer Federation,Minnesota United FC
+707,New Zealand,Midfielder,Joe Bell,27,32,1,0,Norwegian Football Federation,Viking
+708,New Zealand,Midfielder,Matthew Garbett,24,37,5,0,The Football Association,Peterborough United
+709,New Zealand,Midfielder,Marko Stamenić,24,39,3,0,Football Association of Wales,Swansea City
+710,New Zealand,Forward,Chris Wood (captain),34,90,45,0,The Football Association,Nottingham Forest
+711,New Zealand,Midfielder,Sarpreet Singh,27,28,3,0,New Zealand Football,Wellington Phoenix
+712,New Zealand,Midfielder,Elijah Just,26,44,9,0,Scottish Football Association,Motherwell
+713,New Zealand,Goalkeeper,Alex Paulsen,23,8,0,0,Polish Football Association,Lechia Gdańsk
+714,New Zealand,Defender,Liberato Cacace,25,37,1,0,Football Association of Wales,Wrexham
+715,New Zealand,Midfielder,Alex Rufer,29,26,0,0,New Zealand Football,Wellington Phoenix
+716,New Zealand,Defender,Nando Pijnaker,27,25,0,0,New Zealand Football,Auckland FC
+717,New Zealand,Defender,Finn Surman,22,19,2,0,United States Soccer Federation,Portland Timbers
+718,New Zealand,Forward,Kosta Barbarouses,36,76,10,0,Football Australia,Western Sydney Wanderers
+719,New Zealand,Forward,Ben Waine,25,31,9,0,The Football Association,Port Vale
+720,New Zealand,Midfielder,Ben Old,23,24,2,0,French Football Federation,Saint-Étienne
+721,New Zealand,Midfielder,Callum McCowatt,27,32,4,0,Danish Football Association,Silkeborg
+722,New Zealand,Forward,Jesse Randall,23,11,2,0,New Zealand Football,Auckland FC
+723,New Zealand,Goalkeeper,Michael Woud,27,6,0,0,New Zealand Football,Auckland FC
+724,New Zealand,Midfielder,Ryan Thomas,31,25,3,0,Royal Dutch Football Association,PEC Zwolle
+725,New Zealand,Defender,Callan Elliot,26,11,0,0,New Zealand Football,Auckland FC
+726,New Zealand,Midfielder,Lachlan Bayliss,23,4,0,0,Football Australia,Newcastle Jets
+727,New Zealand,Defender,Tommy Smith,36,56,2,0,The Football Association,Braintree Town
+728,Cape Verde,Goalkeeper,Vozinha,40,86,0,0,Portuguese Football Federation,Chaves
+729,Cape Verde,Defender,Stopira,38,62,4,0,Portuguese Football Federation,Torreense
+730,Cape Verde,Defender,Diney,31,30,2,0,United Arab Emirates Football Association,Al Bataeh
+731,Cape Verde,Defender,Roberto Lopes,33,45,0,0,Football Association of Ireland,Shamrock Rovers
+732,Cape Verde,Defender,Logan Costa,25,28,0,0,Royal Spanish Football Federation,Villarreal
+733,Cape Verde,Midfielder,Kevin Pina,29,31,3,0,Russian Football Union,Krasnodar
+734,Cape Verde,Midfielder,Jovane Cabral,27,27,2,0,Portuguese Football Federation,Estrela Amadora
+735,Cape Verde,Midfielder,João Paulo,28,42,1,0,Romanian Football Federation,FCSB
+736,Cape Verde,Forward,Gilson Benchimol,24,22,6,0,Russian Football Union,Akron Tolyatti
+737,Cape Verde,Midfielder,Jamiro Monteiro,32,55,5,0,Royal Dutch Football Association,PEC Zwolle
+738,Cape Verde,Midfielder,Garry Rodrigues,35,60,10,0,Cyprus Football Association,Apollon Limassol
+739,Cape Verde,Goalkeeper,Márcio Rosa,29,11,0,0,Bulgarian Football Union,Montana
+740,Cape Verde,Defender,Sidny Lopes Cabral,23,9,3,0,Portuguese Football Federation,Benfica
+741,Cape Verde,Midfielder,Deroy Duarte,26,30,0,0,Bulgarian Football Union,Ludogorets Razgrad
+742,Cape Verde,Midfielder,Laros Duarte,29,13,1,0,Hungarian Football Federation,Puskás Akadémia
+743,Cape Verde,Midfielder,Yannick Semedo,30,10,1,0,Portuguese Football Federation,Farense
+744,Cape Verde,Midfielder,Willy Semedo,32,38,3,0,Cyprus Football Association,Omonia
+745,Cape Verde,Midfielder,Telmo Arcanjo,24,16,1,0,Portuguese Football Federation,Vitória de Guimarães
+746,Cape Verde,Forward,Dailon Livramento,25,22,7,0,Portuguese Football Federation,Casa Pia
+747,Cape Verde,Forward,Ryan Mendes (captain),36,98,22,0,Turkish Football Federation,Iğdır
+748,Cape Verde,Midfielder,Nuno da Costa,35,9,2,0,Turkish Football Federation,İstanbul Başakşehir
+749,Cape Verde,Defender,Steven Moreira,31,20,0,0,United States Soccer Federation,Columbus Crew
+750,Cape Verde,Goalkeeper,CJ dos Santos,25,1,0,0,United States Soccer Federation,San Diego FC
+751,Cape Verde,Defender,Wagner Pina,23,13,0,0,Turkish Football Federation,Trabzonspor
+752,Cape Verde,Defender,Kelvin Pires,26,5,1,0,Football Association of Finland,SJK
+753,Cape Verde,Midfielder,Hélio Varela,24,20,0,0,Israel Football Association,Maccabi Tel Aviv
+754,Saudi Arabia,Goalkeeper,Nawaf Al-Aqidi,26,22,0,0,Saudi Arabian Football Federation,Al-Nassr
+755,Saudi Arabia,Defender,Ali Majrashi,26,21,0,0,Saudi Arabian Football Federation,Al-Ahli
+756,Saudi Arabia,Defender,Ali Lajami,30,21,1,0,Saudi Arabian Football Federation,Al-Hilal
+757,Saudi Arabia,Defender,Abdulelah Al-Amri,29,42,1,0,Saudi Arabian Football Federation,Al-Nassr
+758,Saudi Arabia,Defender,Hassan Al-Tambakti,27,51,1,0,Saudi Arabian Football Federation,Al-Hilal
+759,Saudi Arabia,Midfielder,Nasser Al-Dawsari,27,43,0,0,Saudi Arabian Football Federation,Al-Hilal
+760,Saudi Arabia,Midfielder,Musab Al-Juwayr,22,34,6,0,Saudi Arabian Football Federation,Al-Qadsiah
+761,Saudi Arabia,Forward,Ayman Yahya,25,26,0,0,Saudi Arabian Football Federation,Al-Nassr
+762,Saudi Arabia,Forward,Firas Al-Buraikan,26,69,15,0,Saudi Arabian Football Federation,Al-Ahli
+763,Saudi Arabia,Forward,Salem Al-Dawsari (captain),34,109,27,0,Saudi Arabian Football Federation,Al-Hilal
+764,Saudi Arabia,Forward,Saleh Al-Shehri,32,55,18,0,Saudi Arabian Football Federation,Al-Ittihad
+765,Saudi Arabia,Defender,Saud Abdulhamid,26,54,1,0,French Football Federation,Lens
+766,Saudi Arabia,Defender,Nawaf Boushal,26,24,0,0,Saudi Arabian Football Federation,Al-Nassr
+767,Saudi Arabia,Defender,Hassan Kadesh,33,20,2,0,Saudi Arabian Football Federation,Al-Ittihad
+768,Saudi Arabia,Midfielder,Abdullah Al-Khaibari,29,39,0,0,Saudi Arabian Football Federation,Al-Nassr
+769,Saudi Arabia,Midfielder,Ziyad Al-Johani,24,12,0,0,Saudi Arabian Football Federation,Al-Ahli
+770,Saudi Arabia,Forward,Khalid Al-Ghannam,25,6,0,0,Saudi Arabian Football Federation,Al-Ettifaq
+771,Saudi Arabia,Midfielder,Alaa Al-Hejji,30,2,0,0,Saudi Arabian Football Federation,Neom
+772,Saudi Arabia,Forward,Abdullah Al-Hamdan,26,49,12,0,Saudi Arabian Football Federation,Al-Nassr
+773,Saudi Arabia,Forward,Sultan Mandash,31,6,2,0,Saudi Arabian Football Federation,Al-Hilal
+774,Saudi Arabia,Goalkeeper,Mohammed Al-Owais,34,63,0,0,Saudi Arabian Football Federation,Al-Ula
+775,Saudi Arabia,Goalkeeper,Ahmed Al-Kassar,35,9,0,0,Saudi Arabian Football Federation,Al-Qadsiah
+776,Saudi Arabia,Midfielder,Mohamed Kanno,31,76,8,0,Saudi Arabian Football Federation,Al-Hilal
+777,Saudi Arabia,Defender,Moteb Al-Harbi,26,12,0,0,Saudi Arabian Football Federation,Al-Hilal
+778,Saudi Arabia,Defender,Jehad Thakri,24,7,0,0,Saudi Arabian Football Federation,Al-Qadsiah
+779,Saudi Arabia,Defender,Mohammed Abu Al-Shamat,23,6,0,0,Saudi Arabian Football Federation,Al-Qadsiah
+780,Spain,Goalkeeper,David Raya,30,13,0,0,The Football Association,Arsenal
+781,Spain,Defender,Marc Pubill,22,2,0,0,Royal Spanish Football Federation,Atlético Madrid
+782,Spain,Defender,Álex Grimaldo,30,14,0,0,German Football Association,Bayer Leverkusen
+783,Spain,Defender,Eric García,25,21,0,0,Royal Spanish Football Federation,Barcelona
+784,Spain,Defender,Marcos Llorente,31,24,0,0,Royal Spanish Football Federation,Atlético Madrid
+785,Spain,Midfielder,Mikel Merino,29,43,10,0,The Football Association,Arsenal
+786,Spain,Forward,Ferran Torres,26,57,24,0,Royal Spanish Football Federation,Barcelona
+787,Spain,Midfielder,Fabián Ruiz,30,42,6,0,French Football Federation,Paris Saint-Germain
+788,Spain,Midfielder,Gavi,21,30,5,0,Royal Spanish Football Federation,Barcelona
+789,Spain,Forward,Dani Olmo,28,50,12,0,Royal Spanish Football Federation,Barcelona
+790,Spain,Forward,Yéremy Pino,23,23,4,0,The Football Association,Crystal Palace
+791,Spain,Defender,Pedro Porro,26,18,0,0,The Football Association,Tottenham Hotspur
+792,Spain,Goalkeeper,Joan Garcia,25,2,0,0,Royal Spanish Football Federation,Barcelona
+793,Spain,Defender,Aymeric Laporte,32,46,2,0,Royal Spanish Football Federation,Athletic Bilbao
+794,Spain,Midfielder,Álex Baena,24,17,2,0,Royal Spanish Football Federation,Atlético Madrid
+795,Spain,Midfielder,Rodri (captain),29,62,4,0,The Football Association,Manchester City
+796,Spain,Forward,Nico Williams,23,30,6,0,Royal Spanish Football Federation,Athletic Bilbao
+797,Spain,Midfielder,Martín Zubimendi,27,26,3,0,The Football Association,Arsenal
+798,Spain,Forward,Lamine Yamal,18,25,6,0,Royal Spanish Football Federation,Barcelona
+799,Spain,Midfielder,Pedri,23,41,6,0,Royal Spanish Football Federation,Barcelona
+800,Spain,Forward,Mikel Oyarzabal,29,53,25,0,Royal Spanish Football Federation,Real Sociedad
+801,Spain,Defender,Pau Cubarsí,19,12,0,0,Royal Spanish Football Federation,Barcelona
+802,Spain,Goalkeeper,Unai Simón,29,58,0,0,Royal Spanish Football Federation,Athletic Bilbao
+803,Spain,Defender,Marc Cucurella,27,24,1,0,The Football Association,Chelsea
+804,Spain,Forward,Víctor Muñoz,22,2,1,0,Royal Spanish Football Federation,Osasuna
+805,Spain,Forward,Borja Iglesias,33,8,0,0,Royal Spanish Football Federation,Celta Vigo
+806,Uruguay,Goalkeeper,Sergio Rochet,33,35,0,0,Brazilian Football Confederation,Internacional
+807,Uruguay,Defender,José Giménez (captain),31,99,8,0,Royal Spanish Football Federation,Atlético Madrid
+808,Uruguay,Defender,Sebastián Cáceres,26,24,0,0,Mexican Football Federation,América
+809,Uruguay,Defender,Ronald Araújo,27,27,1,0,Royal Spanish Football Federation,Barcelona
+810,Uruguay,Midfielder,Manuel Ugarte,25,36,1,0,The Football Association,Manchester United
+811,Uruguay,Midfielder,Rodrigo Bentancur,28,74,3,0,The Football Association,Tottenham Hotspur
+812,Uruguay,Midfielder,Nicolás de la Cruz,29,34,5,0,Brazilian Football Confederation,Flamengo
+813,Uruguay,Midfielder,Federico Valverde,27,73,9,0,Royal Spanish Football Federation,Real Madrid
+814,Uruguay,Forward,Darwin Núñez,26,38,13,0,Saudi Arabian Football Federation,Al-Hilal
+815,Uruguay,Midfielder,Giorgian de Arrascaeta,32,60,13,0,Brazilian Football Confederation,Flamengo
+816,Uruguay,Forward,Facundo Pellistri,24,39,2,0,Hellenic Football Federation,Panathinaikos
+817,Uruguay,Goalkeeper,Santiago Mele,28,8,0,0,Mexican Football Federation,Monterrey
+818,Uruguay,Defender,Guillermo Varela,33,28,0,0,Brazilian Football Confederation,Flamengo
+819,Uruguay,Midfielder,Agustín Canobbio,27,15,1,0,Brazilian Football Confederation,Fluminense
+820,Uruguay,Midfielder,Emiliano Martínez,26,10,0,0,Brazilian Football Confederation,Palmeiras
+821,Uruguay,Defender,Mathías Olivera,28,35,2,0,Italian Football Federation,Napoli
+822,Uruguay,Defender,Matías Viña,28,43,1,0,Argentine Football Association,River Plate
+823,Uruguay,Forward,Brian Rodríguez,26,32,4,0,Mexican Football Federation,América
+824,Uruguay,Forward,Rodrigo Aguirre,31,10,3,0,Mexican Football Federation,UANL
+825,Uruguay,Midfielder,Maximiliano Araújo,26,28,3,0,Portuguese Football Federation,Sporting CP
+826,Uruguay,Forward,Federico Viñas,27,11,2,0,Royal Spanish Football Federation,Oviedo
+827,Uruguay,Midfielder,Joaquín Piquerez,27,19,0,0,Brazilian Football Confederation,Palmeiras
+828,Uruguay,Goalkeeper,Fernando Muslera,39,134,0,0,Argentine Football Association,Estudiantes
+829,Uruguay,Defender,Santiago Bueno,27,8,0,0,The Football Association,Wolverhampton Wanderers
+830,Uruguay,Midfielder,Juan Manuel Sanabria,26,5,1,0,United States Soccer Federation,Real Salt Lake
+831,Uruguay,Midfielder,Rodrigo Zalazar,26,8,2,0,Portuguese Football Federation,Braga
+832,France,Goalkeeper,Brice Samba,32,4,0,0,French Football Federation,Rennes
+833,France,Defender,Malo Gusto,23,11,0,0,The Football Association,Chelsea
+834,France,Defender,Lucas Digne,32,58,0,0,The Football Association,Aston Villa
+835,France,Defender,Dayot Upamecano,27,38,2,0,German Football Association,Bayern Munich
+836,France,Defender,Jules Koundé,27,48,0,0,Royal Spanish Football Federation,Barcelona
+837,France,Midfielder,Manu Koné,25,14,0,0,Italian Football Federation,Roma
+838,France,Forward,Ousmane Dembélé,29,59,7,0,French Football Federation,Paris Saint-Germain
+839,France,Midfielder,Aurélien Tchouaméni,26,46,3,0,Royal Spanish Football Federation,Real Madrid
+840,France,Forward,Marcus Thuram,28,34,3,0,Italian Football Federation,Inter Milan
+841,France,Forward,Kylian Mbappé (captain),27,98,56,0,Royal Spanish Football Federation,Real Madrid
+842,France,Forward,Michael Olise,24,17,7,0,German Football Association,Bayern Munich
+843,France,Forward,Bradley Barcola,23,20,3,0,French Football Federation,Paris Saint-Germain
+844,France,Midfielder,N'Golo Kanté,35,69,2,0,Turkish Football Federation,Fenerbahçe
+845,France,Midfielder,Adrien Rabiot,31,59,7,0,Italian Football Federation,Milan
+846,France,Defender,Ibrahima Konaté,27,28,0,0,The Football Association,Liverpool
+847,France,Goalkeeper,Mike Maignan,30,40,0,0,Italian Football Federation,Milan
+848,France,Defender,William Saliba,25,32,0,0,The Football Association,Arsenal
+849,France,Midfielder,Warren Zaïre-Emery,20,11,1,0,French Football Federation,Paris Saint-Germain
+850,France,Defender,Théo Hernandez,28,44,2,0,Saudi Arabian Football Federation,Al-Hilal
+851,France,Forward,Désiré Doué,21,7,2,0,French Football Federation,Paris Saint-Germain
+852,France,Defender,Lucas Hernandez,30,42,0,0,French Football Federation,Paris Saint-Germain
+853,France,Forward,Jean-Philippe Mateta,28,4,2,0,The Football Association,Crystal Palace
+854,France,Goalkeeper,Robin Risser,21,0,0,0,French Football Federation,Lens
+855,France,Midfielder,Rayan Cherki,22,7,2,0,The Football Association,Manchester City
+856,France,Midfielder,Maghnes Akliouche,24,9,1,0,French Football Federation,Monaco
+857,France,Defender,Maxence Lacroix,26,4,0,0,The Football Association,Crystal Palace
+858,Iraq,Goalkeeper,Fahad Talib,31,21,0,0,Iraq Football Association,Al-Talaba
+859,Iraq,Defender,Rebin Sulaka,34,55,1,0,Football Association of Thailand,Port
+860,Iraq,Defender,Hussein Ali,24,26,1,0,Polish Football Association,Pogoń Szczecin
+861,Iraq,Defender,Zaid Tahseen,25,27,1,0,Uzbekistan Football Association,Pakhtakor
+862,Iraq,Defender,Akam Hashim,27,13,1,0,Iraq Football Association,Al-Zawraa
+863,Iraq,Defender,Manaf Younis,29,33,1,0,Iraq Football Association,Al-Shorta
+864,Iraq,Midfielder,Youssef Amyn,22,26,2,0,Cyprus Football Federation,AEK Larnaca
+865,Iraq,Midfielder,Ibrahim Bayesh,26,75,8,0,United Arab Emirates Football Association,Al Dhafra
+866,Iraq,Forward,Ali Al-Hamadi,24,19,5,0,The Football Association,Luton Town
+867,Iraq,Forward,Mohanad Ali,25,71,27,0,United Arab Emirates Football Association,Dibba
+868,Iraq,Forward,Ahmed Qasem,22,2,0,0,United States Soccer Federation,Nashville SC
+869,Iraq,Goalkeeper,Jalal Hassan (captain),35,101,0,0,Iraq Football Association,Al-Zawraa
+870,Iraq,Forward,Ali Yousif,30,6,1,0,Iraq Football Association,Al-Talaba
+871,Iraq,Midfielder,Zidane Iqbal,23,24,2,0,Royal Dutch Football Association,Utrecht
+872,Iraq,Defender,Ahmed Maknzi,24,6,0,0,Iraq Football Association,Al-Karma
+873,Iraq,Midfielder,Amir Al-Ammari,28,50,3,0,Polish Football Association,Cracovia
+874,Iraq,Forward,Ali Jasim,22,36,2,0,Saudi Arabian Football Federation,Al-Najma
+875,Iraq,Forward,Aymen Hussein,30,94,33,0,Iraq Football Association,Al-Karma
+876,Iraq,Midfielder,Kevin Yakob,25,8,0,0,Danish Football Association,AGF
+877,Iraq,Midfielder,Aimar Sher,23,6,0,0,Norwegian Football Federation,Sarpsborg 08
+878,Iraq,Forward,Marko Farji,22,11,0,0,Italian Football Federation,Venezia
+879,Iraq,Goalkeeper,Ahmed Basil,29,15,0,0,Iraq Football Association,Al-Shorta
+880,Iraq,Defender,Merchas Doski,26,31,1,0,Football Association of the Czech Republic,Viktoria Plzeň
+881,Iraq,Midfielder,Zaid Ismail,24,6,0,0,Iraq Football Association,Al-Talaba
+882,Iraq,Defender,Mustafa Saadoon,25,16,0,0,Iraq Football Association,Al-Shorta
+883,Iraq,Defender,Frans Putros,32,27,0,0,Football Association of Indonesia,Persib
+884,Norway,Goalkeeper,Ørjan Nyland,35,71,0,0,Royal Spanish Football Federation,Sevilla
+885,Norway,Midfielder,Morten Thorsby,30,31,0,0,Italian Football Federation,Cremonese
+886,Norway,Defender,Kristoffer Ajer,28,52,2,0,The Football Association,Brentford
+887,Norway,Defender,Leo Østigård,26,38,1,0,Italian Football Federation,Genoa
+888,Norway,Defender,David Møller Wolfe,24,22,1,0,The Football Association,Wolverhampton Wanderers
+889,Norway,Midfielder,Patrick Berg,28,43,0,0,Norwegian Football Federation,Bodø/Glimt
+890,Norway,Forward,Alexander Sørloth,30,72,26,0,Royal Spanish Football Federation,Atlético Madrid
+891,Norway,Midfielder,Sander Berge,28,66,1,0,The Football Association,Fulham
+892,Norway,Forward,Erling Haaland,25,50,55,0,The Football Association,Manchester City
+893,Norway,Midfielder,Martin Ødegaard (captain),27,68,5,0,The Football Association,Arsenal
+894,Norway,Forward,Jørgen Strand Larsen,26,28,6,0,The Football Association,Crystal Palace
+895,Norway,Goalkeeper,Sander Tangvik,23,0,0,0,German Football Association,Hamburger SV
+896,Norway,Goalkeeper,Egil Selvik,28,7,0,0,The Football Association,Watford
+897,Norway,Midfielder,Fredrik Aursnes,30,22,1,0,Portuguese Football Federation,Benfica
+898,Norway,Defender,Fredrik André Bjørkan,27,21,1,0,Norwegian Football Federation,Bodø/Glimt
+899,Norway,Defender,Marcus Holmgren Pedersen,25,32,0,0,Italian Football Federation,Torino
+900,Norway,Defender,Torbjørn Heggem,27,15,0,0,Italian Football Federation,Bologna
+901,Norway,Midfielder,Kristian Thorstvedt,27,37,4,0,Italian Football Federation,Sassuolo
+902,Norway,Midfielder,Thelo Aasgaard,24,8,5,0,Scottish Football Association,Rangers
+903,Norway,Forward,Antonio Nusa,21,24,8,0,German Football Association,RB Leipzig
+904,Norway,Midfielder,Andreas Schjelderup,22,12,1,0,Portuguese Football Federation,Benfica
+905,Norway,Midfielder,Oscar Bobb,22,20,2,0,The Football Association,Fulham
+906,Norway,Midfielder,Jens Petter Hauge,26,15,1,0,Norwegian Football Federation,Bodø/Glimt
+907,Norway,Defender,Sondre Langås,25,3,0,0,The Football Association,Derby County
+908,Norway,Defender,Henrik Falchener,23,1,0,0,Norwegian Football Federation,Viking
+909,Norway,Forward,Julian Ryerson,28,43,1,0,German Football Association,Borussia Dortmund
+910,Senegal,Goalkeeper,Yehvann Diouf,26,2,0,0,French Football Federation,Nice
+911,Senegal,Defender,Mamadou Sarr,20,7,0,0,The Football Association,Chelsea
+912,Senegal,Defender,Kalidou Koulibaly (captain),34,102,2,0,Saudi Arabian Football Federation,Al-Hilal
+913,Senegal,Defender,Abdoulaye Seck,34,22,4,0,Israel Football Association,Maccabi Haifa
+914,Senegal,Midfielder,Idrissa Gueye,36,130,7,0,The Football Association,Everton
+915,Senegal,Midfielder,Pathé Ciss,32,29,0,0,Royal Spanish Football Federation,Rayo Vallecano
+916,Senegal,Forward,Assane Diao,20,5,0,0,Italian Football Federation,Como
+917,Senegal,Midfielder,Lamine Camara,22,32,7,0,French Football Federation,Monaco
+918,Senegal,Forward,Bamba Dieng,26,22,2,0,French Football Federation,Lorient
+919,Senegal,Forward,Sadio Mané,34,127,55,0,Saudi Arabian Football Federation,Al-Nassr
+920,Senegal,Forward,Nicolas Jackson,24,32,8,0,German Football Association,Bayern Munich
+921,Senegal,Forward,Cherif Ndiaye,30,18,4,0,Turkish Football Federation,Samsunspor
+922,Senegal,Forward,Iliman Ndiaye,26,39,4,0,The Football Association,Everton
+923,Senegal,Defender,Ismail Jakobs,26,29,0,0,Turkish Football Federation,Galatasaray
+924,Senegal,Defender,Krépin Diatta,27,60,2,0,French Football Federation,Monaco
+925,Senegal,Goalkeeper,Édouard Mendy,34,56,0,0,Saudi Arabian Football Federation,Al-Ahli
+926,Senegal,Midfielder,Pape Matar Sarr,23,39,4,0,The Football Association,Tottenham Hotspur
+927,Senegal,Forward,Ismaïla Sarr,28,82,19,0,The Football Association,Crystal Palace
+928,Senegal,Defender,Moussa Niakhaté,30,30,0,0,French Football Federation,Lyon
+929,Senegal,Forward,Ibrahim Mbaye,18,10,3,0,French Football Federation,Paris Saint-Germain
+930,Senegal,Midfielder,Habib Diarra,22,20,4,0,The Football Association,Sunderland
+931,Senegal,Midfielder,Bara Sapoko Ndiaye,18,1,0,0,German Football Association,Bayern Munich
+932,Senegal,Goalkeeper,Mory Diaw,32,5,0,0,French Football Federation,Le Havre
+933,Senegal,Defender,Antoine Mendy,22,6,0,0,French Football Federation,Nice
+934,Senegal,Defender,El Hadji Malick Diouf,21,19,1,0,The Football Association,West Ham United
+935,Senegal,Midfielder,Pape Gueye,27,41,5,0,Royal Spanish Football Federation,Villarreal
+936,Algeria,Goalkeeper,Melvin Mastil,26,1,0,0,Swiss Football Association,Stade Nyonnais
+937,Algeria,Defender,Aïssa Mandi,34,117,7,0,French Football Federation,Lille
+938,Algeria,Defender,Achref Abada,26,7,1,0,Algerian Football Federation,USM Alger
+939,Algeria,Defender,Mohamed Amine Tougai,26,29,2,0,Tunisian Football Federation,Espérance de Tunis
+940,Algeria,Defender,Zineddine Belaïd,27,10,1,0,Algerian Football Federation,JS Kabylie
+941,Algeria,Midfielder,Ramiz Zerrouki,28,52,3,0,Royal Dutch Football Association,Twente
+942,Algeria,Forward,Riyad Mahrez (captain),35,114,38,0,Saudi Arabian Football Federation,Al-Ahli
+943,Algeria,Midfielder,Houssem Aouar,27,20,6,0,Saudi Arabian Football Federation,Al-Ittihad
+944,Algeria,Forward,Amine Gouiri,26,22,8,0,French Football Federation,Marseille
+945,Algeria,Midfielder,Farès Chaïbi,23,29,3,0,German Football Association,Eintracht Frankfurt
+946,Algeria,Forward,Anis Hadj Moussa,24,14,1,0,Royal Dutch Football Association,Feyenoord
+947,Algeria,Forward,Nadhir Benbouali,26,3,1,0,Hungarian Football Federation,Győri ETO
+948,Algeria,Defender,Jaouen Hadjam,23,17,3,0,Swiss Football Association,Young Boys
+949,Algeria,Midfielder,Hicham Boudaoui,26,32,0,0,French Football Federation,Nice
+950,Algeria,Defender,Rayan Aït-Nouri,25,28,0,0,The Football Association,Manchester City
+951,Algeria,Goalkeeper,Oussama Benbot,31,2,0,0,Algerian Football Federation,USM Alger
+952,Algeria,Defender,Rafik Belghali,24,12,1,0,Italian Football Federation,Hellas Verona
+953,Algeria,Forward,Mohamed Amoura,26,45,19,0,German Football Association,VfL Wolfsburg
+954,Algeria,Midfielder,Nabil Bentaleb,31,59,6,0,French Football Federation,Lille
+955,Algeria,Forward,Adil Boulbina,23,11,6,0,Qatar Football Association,Al-Duhail
+956,Algeria,Defender,Ramy Bensebaini,31,81,7,0,German Football Association,Borussia Dortmund
+957,Algeria,Midfielder,Ibrahim Maza,20,16,2,0,German Football Association,Bayer Leverkusen
+958,Algeria,Goalkeeper,Luca Zidane,28,7,0,0,Royal Spanish Football Federation,Granada
+959,Algeria,Midfielder,Yacine Titraoui,22,5,0,0,Royal Belgian Football Association,Charleroi
+960,Algeria,Forward,Farès Ghedjemis,23,1,1,0,Italian Football Federation,Frosinone
+961,Algeria,Defender,Samir Chergui,27,4,0,0,French Football Federation,Paris FC
+962,Argentina,Goalkeeper,Juan Musso,32,4,0,0,Royal Spanish Football Federation,Atlético Madrid
+963,Argentina,Defender,Nicolás Tagliafico,33,76,1,0,French Football Federation,Lyon
+964,Argentina,Defender,Gonzalo Montiel,29,38,2,0,Argentine Football Association,River Plate
+965,Argentina,Midfielder,Leandro Paredes,31,77,5,0,Argentine Football Association,Boca Juniors
+966,Argentina,Defender,Lisandro Martínez,28,27,1,0,The Football Association,Manchester United
+967,Argentina,Midfielder,Rodrigo De Paul,32,86,2,0,United States Soccer Federation,Inter Miami CF
+968,Argentina,Midfielder,Valentín Barco,21,3,1,0,French Football Federation,Strasbourg
+969,Argentina,Forward,Julián Alvarez,26,51,14,0,Royal Spanish Football Federation,Atlético Madrid
+970,Argentina,Forward,Lionel Messi (captain),38,198,116,0,United States Soccer Federation,Inter Miami CF
+971,Argentina,Midfielder,Giovani Lo Celso,30,66,4,0,Royal Spanish Football Federation,Real Betis
+972,Argentina,Goalkeeper,Gerónimo Rulli,34,7,0,0,French Football Federation,Marseille
+973,Argentina,Defender,Cristian Romero,28,50,3,0,The Football Association,Tottenham Hotspur
+974,Argentina,Midfielder,Exequiel Palacios,27,39,0,0,German Football Association,Bayer Leverkusen
+975,Argentina,Midfielder,Nicolás González,28,50,6,0,Royal Spanish Football Federation,Atlético Madrid
+976,Argentina,Forward,Thiago Almada,25,15,4,0,Royal Spanish Football Federation,Atlético Madrid
+977,Argentina,Forward,Giuliano Simeone,23,12,2,0,Royal Spanish Football Federation,Atlético Madrid
+978,Argentina,Forward,Nico Paz,21,8,1,0,Italian Football Federation,Como
+979,Argentina,Defender,Nicolás Otamendi,38,131,8,0,Portuguese Football Federation,Benfica
+980,Argentina,Midfielder,Alexis Mac Allister,27,45,6,0,The Football Association,Liverpool
+981,Argentina,Forward,José Manuel López,25,4,0,0,Brazilian Football Confederation,Palmeiras
+982,Argentina,Forward,Lautaro Martínez,28,76,37,0,Italian Football Federation,Inter Milan
+983,Argentina,Goalkeeper,Emiliano Martínez,33,59,0,0,The Football Association,Aston Villa
+984,Argentina,Midfielder,Enzo Fernández,25,41,6,0,The Football Association,Chelsea
+985,Argentina,Defender,Facundo Medina,27,8,0,0,French Football Federation,Marseille
+986,Argentina,Defender,Nahuel Molina,28,58,1,0,Royal Spanish Football Federation,Atlético Madrid
+987,Austria,Goalkeeper,Alexander Schlager,30,26,0,0,Austrian Football Association,Red Bull Salzburg
+988,Austria,Defender,David Affengruber,25,1,0,0,Royal Spanish Football Federation,Elche
+989,Austria,Defender,Kevin Danso,27,32,0,0,The Football Association,Tottenham Hotspur
+990,Austria,Midfielder,Xaver Schlager,28,51,4,0,German Football Association,RB Leipzig
+991,Austria,Defender,Stefan Posch,29,52,5,0,German Football Association,Mainz 05
+992,Austria,Midfielder,Nicolas Seiwald,25,47,1,0,German Football Association,RB Leipzig
+993,Austria,Forward,Marko Arnautović,37,133,47,0,Football Association of Serbia,Red Star Belgrade
+994,Austria,Defender,David Alaba (captain),33,113,15,0,Royal Spanish Football Federation,Real Madrid
+995,Austria,Midfielder,Marcel Sabitzer,32,98,26,0,German Football Association,Borussia Dortmund
+996,Austria,Midfielder,Florian Grillitsch,30,58,1,0,Portuguese Football Federation,Braga
+997,Austria,Forward,Michael Gregoritsch,32,75,24,0,German Football Association,FC Augsburg
+998,Austria,Goalkeeper,Florian Wiegele,25,1,0,0,Football Association of the Czech Republic,Viktoria Plzeň
+999,Austria,Goalkeeper,Patrick Pentz,29,18,0,0,Danish Football Association,Brøndby
+1000,Austria,Forward,Saša Kalajdžić,28,22,4,0,Austrian Football Association,LASK
+1001,Austria,Defender,Philipp Lienhart,29,41,3,0,German Football Association,SC Freiburg
+1002,Austria,Defender,Phillipp Mwene,32,30,0,0,German Football Association,Mainz 05
+1003,Austria,Midfielder,Carney Chukwuemeka,22,3,1,0,German Football Association,Borussia Dortmund
+1004,Austria,Midfielder,Romano Schmid,26,34,3,0,German Football Association,Werder Bremen
+1005,Austria,Midfielder,Konrad Laimer,29,57,7,0,German Football Association,Bayern Munich
+1006,Austria,Forward,Patrick Wimmer,25,30,1,0,German Football Association,VfL Wolfsburg
+1007,Austria,Midfielder,Alexander Prass,25,19,0,0,German Football Association,TSG Hoffenheim
+1008,Austria,Defender,Marco Friedl,28,11,0,0,German Football Association,Werder Bremen
+1009,Austria,Midfielder,Paul Wanner,20,3,0,0,Royal Dutch Football Association,PSV Eindhoven
+1010,Austria,Defender,Michael Svoboda,27,4,0,0,Italian Football Federation,Venezia
+1011,Austria,Midfielder,Alessandro Schöpf,32,35,6,0,Austrian Football Association,Wolfsberger AC
+1012,Jordan,Goalkeeper,Yazeed Abulaila,33,76,0,0,Jordan Football Association,Al-Hussein
+1013,Jordan,Defender,Mohammad Abu Hashish,31,56,1,0,Iraq Football Association,Al-Karma
+1014,Jordan,Defender,Abdallah Nasib,32,65,3,0,Iraq Football Association,Al-Zawraa
+1015,Jordan,Defender,Husam Abu Dahab,26,18,0,0,Jordan Football Association,Al-Faisaly
+1016,Jordan,Defender,Yazan Al-Arab,30,80,3,0,Korea Football Association,FC Seoul
+1017,Jordan,Midfielder,Amer Jamous,23,19,1,0,Iraq Football Association,Al-Zawraa
+1018,Jordan,Forward,Mohammad Abu Zrayq,28,41,5,0,Royal Moroccan Football Federation,Raja Casablanca
+1019,Jordan,Midfielder,Noor Al-Rawabdeh,29,68,3,0,Football Association of Malaysia,Selangor
+1020,Jordan,Forward,Ali Olwan,26,66,29,0,Qatar Football Association,Al-Sailiya
+1021,Jordan,Forward,Musa Al-Taamari,29,92,24,0,French Football Federation,Rennes
+1022,Jordan,Forward,Odeh Al-Fakhouri,20,10,1,0,Egyptian Football Association,Pyramids
+1023,Jordan,Goalkeeper,Nour Bani Attiah,33,5,0,0,Jordan Football Association,Al-Faisaly
+1024,Jordan,Forward,Mahmoud Al-Mardi,32,89,9,0,Jordan Football Association,Al-Hussein
+1025,Jordan,Midfielder,Rajaei Ayed,32,72,0,0,Jordan Football Association,Al-Hussein
+1026,Jordan,Midfielder,Ibrahim Sadeh,26,57,3,0,Iraq Football Association,Al-Karma
+1027,Jordan,Defender,Mo Abualnadi,25,18,0,0,Football Association of Malaysia,Selangor
+1028,Jordan,Defender,Salim Obaid,34,11,0,0,Jordan Football Association,Al-Hussein
+1029,Jordan,Defender,Mohammad Taha,20,2,0,0,Jordan Football Association,Al-Hussein
+1030,Jordan,Defender,Saed Al-Rosan,29,21,2,0,Jordan Football Association,Al-Hussein
+1031,Jordan,Midfielder,Mohannad Abu Taha,23,29,1,0,Iraq Football Association,Al-Quwa Al-Jawiya
+1032,Jordan,Midfielder,Nizar Al-Rashdan,27,47,4,0,Qatar Football Association,Qatar SC
+1033,Jordan,Goalkeeper,Abdallah Al-Fakhouri,26,11,0,0,Jordan Football Association,Al-Wehdat
+1034,Jordan,Defender,Ihsan Haddad (captain),32,92,2,0,Jordan Football Association,Al-Hussein
+1035,Jordan,Forward,Ali Azaizeh,22,4,0,0,Saudi Arabian Football Federation,Al-Shabab
+1036,Jordan,Midfielder,Mohammad Al-Dawoud,34,13,1,0,Jordan Football Association,Al-Wehdat
+1037,Jordan,Defender,Anas Badawi,28,1,0,0,Jordan Football Association,Al-Faisaly
+1038,Colombia,Goalkeeper,David Ospina,37,130,0,0,Colombian Football Federation,Atlético Nacional
+1039,Colombia,Defender,Daniel Muñoz,30,46,3,0,The Football Association,Crystal Palace
+1040,Colombia,Defender,Jhon Lucumí,27,37,1,0,Italian Football Federation,Bologna
+1041,Colombia,Defender,Santiago Arias,34,68,0,0,Argentine Football Association,Independiente
+1042,Colombia,Midfielder,Kevin Castaño,25,25,0,0,Argentine Football Association,River Plate
+1043,Colombia,Midfielder,Richard Ríos,26,32,2,0,Portuguese Football Federation,Benfica
+1044,Colombia,Forward,Luis Díaz,29,74,22,0,German Football Association,Bayern Munich
+1045,Colombia,Midfielder,Jorge Carrascal,28,24,2,0,Brazilian Football Confederation,Flamengo
+1046,Colombia,Forward,Jhon Córdoba,33,21,6,0,Russian Football Union,Krasnodar
+1047,Colombia,Midfielder,James Rodríguez (captain),34,126,31,0,United States Soccer Federation,Minnesota United FC
+1048,Colombia,Midfielder,Jhon Arias,28,38,6,0,Brazilian Football Confederation,Palmeiras
+1049,Colombia,Goalkeeper,Camilo Vargas,37,42,0,0,Mexican Football Federation,Atlas
+1050,Colombia,Defender,Yerry Mina,31,54,8,0,Italian Football Federation,Cagliari
+1051,Colombia,Defender,Gustavo Puerta,22,6,1,0,Royal Spanish Football Federation,Racing Santander
+1052,Colombia,Midfielder,Juan Portilla,27,10,0,0,Brazilian Football Confederation,Athletico Paranaense
+1053,Colombia,Midfielder,Jefferson Lerma,31,65,5,0,The Football Association,Crystal Palace
+1054,Colombia,Defender,Johan Mojica,33,45,1,0,Royal Spanish Football Federation,Mallorca
+1055,Colombia,Defender,Willer Ditta,28,5,0,0,Mexican Football Federation,Cruz Azul
+1056,Colombia,Forward,Cucho Hernández,27,9,2,0,Royal Spanish Football Federation,Real Betis
+1057,Colombia,Midfielder,Juan Fernando Quintero,33,49,6,0,Argentine Football Association,River Plate
+1058,Colombia,Forward,Jaminton Campaz,26,10,1,0,Argentine Football Association,Rosario Central
+1059,Colombia,Defender,Deiver Machado,32,15,0,0,French Football Federation,Nantes
+1060,Colombia,Defender,Davinson Sánchez,29,79,4,0,Turkish Football Federation,Galatasaray
+1061,Colombia,Goalkeeper,Álvaro Montero,31,12,0,0,Argentine Football Association,Vélez Sarsfield
+1062,Colombia,Forward,Luis Suárez,28,12,5,0,Portuguese Football Federation,Sporting CP
+1063,Colombia,Forward,Andrés Gómez,23,8,2,0,Brazilian Football Confederation,Vasco da Gama
+1064,DR Congo,Goalkeeper,Lionel Mpasi,31,28,0,0,French Football Federation,Le Havre
+1065,DR Congo,Defender,Aaron Wan-Bissaka,28,11,0,0,The Football Association,West Ham United
+1066,DR Congo,Defender,Steve Kapuadi,28,4,0,0,Polish Football Association,Widzew Łódź
+1067,DR Congo,Defender,Axel Tuanzebe,28,13,1,0,The Football Association,Burnley
+1068,DR Congo,Defender,Dylan Batubinsika,30,14,1,0,Hellenic Football Federation,AEL
+1069,DR Congo,Midfielder,Ngal'ayel Mukau,21,13,0,0,French Football Federation,Lille
+1070,DR Congo,Midfielder,Nathanaël Mbuku,24,18,2,0,French Football Federation,Montpellier
+1071,DR Congo,Midfielder,Samuel Moutoussamy,29,57,0,0,Hellenic Football Federation,Atromitos
+1072,DR Congo,Forward,Brian Cipenga,28,7,0,0,Royal Spanish Football Federation,Castellón
+1073,DR Congo,Midfielder,Théo Bongonda,30,37,7,0,Russian Football Union,Spartak Moscow
+1074,DR Congo,Forward,Gaël Kakuta,34,30,5,0,Hellenic Football Federation,AEL
+1075,DR Congo,Defender,Joris Kayembe,31,25,0,0,Royal Belgian Football Association,Genk
+1076,DR Congo,Forward,Meschak Elia,28,68,12,0,Turkish Football Federation,Alanyaspor
+1077,DR Congo,Midfielder,Noah Sadiki,21,19,0,0,The Football Association,Sunderland
+1078,DR Congo,Midfielder,Aaron Tshibola,31,16,1,0,Scottish Football Association,Kilmarnock
+1079,DR Congo,Goalkeeper,Timothy Fayulu,26,3,0,0,Football Federation of Armenia,Noah
+1080,DR Congo,Forward,Cédric Bakambu,35,69,21,0,Royal Spanish Football Federation,Real Betis
+1081,DR Congo,Midfielder,Charles Pickel,29,34,1,0,Royal Spanish Football Federation,Espanyol
+1082,DR Congo,Forward,Fiston Mayele,31,37,6,0,Egyptian Football Association,Pyramids
+1083,DR Congo,Forward,Yoane Wissa,29,37,9,0,The Football Association,Newcastle United
+1084,DR Congo,Goalkeeper,Matthieu Epolo,21,1,0,0,Royal Belgian Football Association,Standard Liège
+1085,DR Congo,Defender,Chancel Mbemba (captain),31,108,7,0,French Football Federation,Lille
+1086,DR Congo,Forward,Simon Banza,29,15,2,0,United Arab Emirates Football Association,Al Jazira
+1087,DR Congo,Defender,Gédéon Kalulu,28,28,0,0,Cyprus Football Association,Aris Limassol
+1088,DR Congo,Midfielder,Edo Kayembe,28,42,2,0,The Football Association,Watford
+1089,DR Congo,Defender,Arthur Masuaku,32,45,4,0,French Football Federation,Lens
+1090,Portugal,Goalkeeper,Diogo Costa,26,42,0,0,Portuguese Football Federation,Porto
+1091,Portugal,Defender,Nélson Semedo,32,49,0,0,Turkish Football Federation,Fenerbahçe
+1092,Portugal,Defender,Rúben Dias,29,75,3,0,The Football Association,Manchester City
+1093,Portugal,Defender,Tomás Araújo,24,4,0,0,Portuguese Football Federation,Benfica
+1094,Portugal,Defender,Diogo Dalot,27,34,3,0,The Football Association,Manchester United
+1095,Portugal,Midfielder,Matheus Nunes,27,19,2,0,The Football Association,Manchester City
+1096,Portugal,Forward,Cristiano Ronaldo (captain),41,227,143,0,Saudi Arabian Football Federation,Al-Nassr
+1097,Portugal,Midfielder,Bruno Fernandes,31,88,29,0,The Football Association,Manchester United
+1098,Portugal,Forward,Gonçalo Ramos,24,24,10,0,French Football Federation,Paris Saint-Germain
+1099,Portugal,Midfielder,Bernardo Silva,31,108,14,0,The Football Association,Manchester City
+1100,Portugal,Forward,João Félix,26,53,12,0,Saudi Arabian Football Federation,Al-Nassr
+1101,Portugal,Goalkeeper,José Sá,33,5,0,0,The Football Association,Wolverhampton Wanderers
+1102,Portugal,Defender,Renato Veiga,22,12,1,0,Royal Spanish Football Federation,Villarreal
+1103,Portugal,Defender,Gonçalo Inácio,24,21,2,0,Portuguese Football Federation,Sporting CP
+1104,Portugal,Midfielder,João Neves,21,21,3,0,French Football Federation,Paris Saint-Germain
+1105,Portugal,Forward,Francisco Trincão,26,17,3,0,Portuguese Football Federation,Sporting CP
+1106,Portugal,Forward,Rafael Leão,27,44,5,0,Italian Football Federation,Milan
+1107,Portugal,Forward,Pedro Neto,26,24,2,0,The Football Association,Chelsea
+1108,Portugal,Forward,Gonçalo Guedes,29,34,8,0,Royal Spanish Football Federation,Real Sociedad
+1109,Portugal,Defender,João Cancelo,32,67,12,0,Royal Spanish Football Federation,Barcelona
+1110,Portugal,Midfielder,Rúben Neves,29,66,1,0,Saudi Arabian Football Federation,Al-Hilal
+1111,Portugal,Goalkeeper,Rui Silva,32,3,0,0,Portuguese Football Federation,Sporting CP
+1112,Portugal,Midfielder,Vitinha,26,37,0,0,French Football Federation,Paris Saint-Germain
+1113,Portugal,Defender,Samú Costa,25,5,0,0,Royal Spanish Football Federation,Mallorca
+1114,Portugal,Defender,Nuno Mendes,23,43,1,0,French Football Federation,Paris Saint-Germain
+1115,Portugal,Forward,Francisco Conceição,23,16,3,0,Italian Football Federation,Juventus
+1116,Uzbekistan,Goalkeeper,Utkir Yusupov,35,40,0,0,Uzbekistan Football Association,Navbahor Namangan
+1117,Uzbekistan,Defender,Abdukodir Khusanov,22,27,0,0,The Football Association,Manchester City
+1118,Uzbekistan,Defender,Khojiakbar Alijonov,29,40,2,0,Uzbekistan Football Association,Pakhtakor
+1119,Uzbekistan,Defender,Farrukh Sayfiev,35,46,1,0,Uzbekistan Football Association,Neftchi Fergana
+1120,Uzbekistan,Defender,Rustam Ashurmatov,29,49,1,0,Football Federation Islamic Republic of Iran,Esteghlal
+1121,Uzbekistan,Midfielder,Akmal Mozgovoy,27,25,1,0,Uzbekistan Football Association,Pakhtakor
+1122,Uzbekistan,Midfielder,Otabek Shukurov,29,84,9,0,United Arab Emirates Football Association,Baniyas
+1123,Uzbekistan,Midfielder,Jamshid Iskanderov,32,38,4,0,Uzbekistan Football Association,Neftchi Fergana
+1124,Uzbekistan,Midfielder,Odiljon Hamrobekov,30,72,1,0,Football Federation Islamic Republic of Iran,Tractor
+1125,Uzbekistan,Midfielder,Jaloliddin Masharipov,32,74,12,0,Football Federation Islamic Republic of Iran,Esteghlal
+1126,Uzbekistan,Midfielder,Oston Urunov,25,42,10,0,Football Federation Islamic Republic of Iran,Persepolis
+1127,Uzbekistan,Goalkeeper,Abduvohid Nematov,25,8,0,0,Uzbekistan Football Association,Nasaf
+1128,Uzbekistan,Defender,Sherzod Nasrullaev,27,31,2,0,Uzbekistan Football Association,Nasaf
+1129,Uzbekistan,Forward,Eldor Shomurodov (captain),30,92,44,0,Turkish Football Federation,İstanbul Başakşehir
+1130,Uzbekistan,Defender,Umar Eshmurodov,33,29,0,0,Uzbekistan Football Association,Nasaf
+1131,Uzbekistan,Goalkeeper,Botirali Ergashev,30,2,0,0,Uzbekistan Football Association,Neftchi Fergana
+1132,Uzbekistan,Midfielder,Dostonbek Khamdamov,29,34,5,0,Uzbekistan Football Association,Pakhtakor
+1133,Uzbekistan,Defender,Abdulla Abdullaev,28,17,0,0,United Arab Emirates Football Association,Dibba
+1134,Uzbekistan,Midfielder,Azizjon Ganiev,28,19,0,0,United Arab Emirates Football Association,Al Bataeh
+1135,Uzbekistan,Forward,Azizbek Amonov,28,12,2,0,Uzbekistan Football Association,Dinamo Samarqand
+1136,Uzbekistan,Forward,Igor Sergeev,33,83,25,0,Football Federation Islamic Republic of Iran,Persepolis
+1137,Uzbekistan,Midfielder,Abbosbek Fayzullaev,22,32,8,0,Turkish Football Federation,İstanbul Başakşehir
+1138,Uzbekistan,Midfielder,Sherzod Esanov,23,1,0,0,Uzbekistan Football Association,Bukhara
+1139,Uzbekistan,Defender,Bekhruz Karimov,18,2,0,0,Uzbekistan Football Association,Surkhon Termiz
+1140,Uzbekistan,Defender,Avazbek Ulmasaliev,26,0,0,0,Uzbekistan Football Association,AGMK
+1141,Uzbekistan,Defender,Jakhongir Urozov,22,4,0,0,Uzbekistan Football Association,Dinamo Samarqand
+1142,Croatia,Goalkeeper,Dominik Livaković,31,75,0,0,Croatian Football Federation,Dinamo Zagreb
+1143,Croatia,Defender,Josip Stanišić,26,31,0,0,German Football Association,Bayern Munich
+1144,Croatia,Defender,Marin Pongračić,28,20,0,0,Italian Football Federation,Fiorentina
+1145,Croatia,Defender,Joško Gvardiol,24,48,4,0,The Football Association,Manchester City
+1146,Croatia,Defender,Duje Ćaleta-Car,29,38,1,0,Royal Spanish Football Federation,Real Sociedad
+1147,Croatia,Defender,Josip Šutalo,26,33,0,0,Royal Dutch Football Association,Ajax
+1148,Croatia,Midfielder,Nikola Moro,28,10,0,0,Italian Football Federation,Bologna
+1149,Croatia,Midfielder,Mateo Kovačić,32,113,5,0,The Football Association,Manchester City
+1150,Croatia,Forward,Andrej Kramarić,34,116,36,0,German Football Association,TSG Hoffenheim
+1151,Croatia,Midfielder,Luka Modrić (captain),40,198,29,0,Italian Football Federation,Milan
+1152,Croatia,Forward,Ante Budimir,34,38,6,0,Royal Spanish Football Federation,Osasuna
+1153,Croatia,Goalkeeper,Ivor Pandur,26,0,0,0,The Football Association,Hull City
+1154,Croatia,Midfielder,Nikola Vlašić,28,63,10,0,Italian Football Federation,Torino
+1155,Croatia,Forward,Ivan Perišić,37,154,38,0,Royal Dutch Football Association,PSV Eindhoven
+1156,Croatia,Midfielder,Mario Pašalić,31,85,12,0,Italian Football Federation,Atalanta
+1157,Croatia,Midfielder,Martin Baturina,23,19,1,0,Italian Football Federation,Como
+1158,Croatia,Midfielder,Petar Sučić,22,17,1,0,Italian Football Federation,Inter Milan
+1159,Croatia,Defender,Kristijan Jakić,29,17,2,0,German Football Association,FC Augsburg
+1160,Croatia,Midfielder,Toni Fruk,25,7,1,0,Croatian Football Federation,Rijeka
+1161,Croatia,Forward,Igor Matanović,23,9,2,0,German Football Association,SC Freiburg
+1162,Croatia,Midfielder,Luka Sučić,23,21,1,0,Royal Spanish Football Federation,Real Sociedad
+1163,Croatia,Defender,Luka Vušković,19,5,1,0,German Football Association,Hamburger SV
+1164,Croatia,Goalkeeper,Dominik Kotarski,26,4,0,0,Danish Football Association,Copenhagen
+1165,Croatia,Forward,Marco Pašalić,25,15,1,0,United States Soccer Federation,Orlando City SC
+1166,Croatia,Defender,Martin Erlić,28,13,1,0,Danish Football Association,Midtjylland
+1167,Croatia,Forward,Petar Musa,28,11,1,0,United States Soccer Federation,FC Dallas
+1168,England,Goalkeeper,Jordan Pickford,32,83,0,0,The Football Association,Everton
+1169,England,Defender,Ezri Konsa,28,19,1,0,The Football Association,Aston Villa
+1170,England,Defender,Nico O'Reilly,21,4,0,0,The Football Association,Manchester City
+1171,England,Midfielder,Declan Rice,27,72,6,0,The Football Association,Arsenal
+1172,England,Defender,John Stones,32,88,3,0,The Football Association,Manchester City
+1173,England,Defender,Marc Guéhi,25,28,1,0,The Football Association,Manchester City
+1174,England,Forward,Bukayo Saka,24,48,14,0,The Football Association,Arsenal
+1175,England,Midfielder,Elliot Anderson,23,8,0,0,The Football Association,Nottingham Forest
+1176,England,Forward,Harry Kane (captain),32,113,79,0,German Football Association,Bayern Munich
+1177,England,Midfielder,Jude Bellingham,22,47,6,0,Royal Spanish Football Federation,Real Madrid
+1178,England,Forward,Marcus Rashford,28,71,18,0,Royal Spanish Football Federation,Barcelona
+1179,England,Defender,Tino Livramento,23,6,0,0,The Football Association,Newcastle United
+1180,England,Goalkeeper,Dean Henderson,29,4,0,0,The Football Association,Crystal Palace
+1181,England,Midfielder,Jordan Henderson,35,90,3,0,The Football Association,Brentford
+1182,England,Defender,Dan Burn,34,7,0,0,The Football Association,Newcastle United
+1183,England,Midfielder,Kobbie Mainoo,21,13,0,0,The Football Association,Manchester United
+1184,England,Midfielder,Morgan Rogers,23,14,1,0,The Football Association,Aston Villa
+1185,England,Forward,Anthony Gordon,25,18,2,0,The Football Association,Newcastle United
+1186,England,Forward,Ollie Watkins,30,21,6,0,The Football Association,Aston Villa
+1187,England,Forward,Noni Madueke,24,10,1,0,The Football Association,Arsenal
+1188,England,Midfielder,Eberechi Eze,27,16,3,0,The Football Association,Arsenal
+1189,England,Forward,Ivan Toney,30,8,1,0,Saudi Arabian Football Federation,Al-Ahli
+1190,England,Goalkeeper,James Trafford,23,2,0,0,The Football Association,Manchester City
+1191,England,Defender,Reece James,26,23,1,0,The Football Association,Chelsea
+1192,England,Defender,Djed Spence,25,5,0,0,The Football Association,Tottenham Hotspur
+1193,England,Defender,Jarell Quansah,23,2,0,0,German Football Association,Bayer Leverkusen
+1194,Ghana,Goalkeeper,Lawrence Ati-Zigi,29,29,0,0,Swiss Football Association,St. Gallen
+1195,Ghana,Defender,Alidu Seidu,26,24,1,0,French Football Federation,Rennes
+1196,Ghana,Midfielder,Caleb Yirenkyi,20,11,1,0,Danish Football Association,Nordsjælland
+1197,Ghana,Defender,Jonas Adjetey,22,10,0,0,German Football Association,VfL Wolfsburg
+1198,Ghana,Midfielder,Thomas Partey,32,57,15,0,Royal Spanish Football Federation,Villarreal
+1199,Ghana,Defender,Abdul Mumin,28,5,0,0,Royal Spanish Football Federation,Rayo Vallecano
+1200,Ghana,Forward,Abdul Fatawu,22,28,3,0,The Football Association,Leicester City
+1201,Ghana,Midfielder,Kwasi Sibo,27,8,0,0,Royal Spanish Football Federation,Oviedo
+1202,Ghana,Forward,Jordan Ayew (captain),34,120,34,0,The Football Association,Leicester City
+1203,Ghana,Forward,Brandon Thomas-Asante,27,8,1,0,The Football Association,Coventry City
+1204,Ghana,Midfielder,Antoine Semenyo,26,34,3,0,The Football Association,Manchester City
+1205,Ghana,Goalkeeper,Joseph Anang,26,1,0,0,Football Association of Ireland,St Patrick's Athletic
+1206,Ghana,Forward,Christopher Bonsu Baah,21,9,0,0,Saudi Arabian Football Federation,Al-Qadsiah
+1207,Ghana,Defender,Gideon Mensah,27,40,0,0,French Football Federation,Auxerre
+1208,Ghana,Midfielder,Elisha Owusu,28,20,0,0,French Football Federation,Auxerre
+1209,Ghana,Goalkeeper,Benjamin Asare,33,11,0,0,Ghana Football Association,Hearts of Oak
+1210,Ghana,Defender,Abdul Rahman Baba,31,51,1,0,Hellenic Football Federation,PAOK
+1211,Ghana,Defender,Jerome Opoku,27,11,1,0,Turkish Football Federation,İstanbul Başakşehir
+1212,Ghana,Forward,Iñaki Williams,31,26,2,0,Royal Spanish Football Federation,Athletic Bilbao
+1213,Ghana,Midfielder,Augustine Boakye,25,0,0,0,French Football Federation,Saint-Étienne
+1214,Ghana,Defender,Kojo Peprah Oppong,22,4,0,0,French Football Federation,Nice
+1215,Ghana,Forward,Kamaldeen Sulemana,24,28,1,0,Italian Football Federation,Atalanta
+1216,Ghana,Defender,Derrick Luckassen,30,1,0,0,Cyprus Football Association,Pafos
+1217,Ghana,Forward,Ernest Nuamah,22,18,4,0,French Football Federation,Lyon
+1218,Ghana,Forward,Prince Kwabena Adu,22,5,0,0,Football Association of the Czech Republic,Viktoria Plzeň
+1219,Ghana,Defender,Marvin Senaya,25,2,0,0,French Football Federation,Auxerre
+1220,Panama,Goalkeeper,Luis Mejía,35,56,0,0,Uruguayan Football Association,Nacional
+1221,Panama,Defender,César Blackman,28,40,3,0,Slovak Football Association,Slovan Bratislava
+1222,Panama,Defender,José Córdoba,25,32,1,0,The Football Association,Norwich City
+1223,Panama,Defender,Fidel Escobar,31,99,4,0,Costa Rican Football Federation,Saprissa
+1224,Panama,Defender,Edgardo Fariña,24,18,0,0,Russian Football Union,Pari Nizhny Novgorod
+1225,Panama,Midfielder,Cristian Martínez,29,66,2,0,Israel Football Association,Ironi Kiryat Shmona
+1226,Panama,Midfielder,José Luis Rodríguez,27,70,8,0,Mexican Football Federation,Juárez
+1227,Panama,Midfielder,Adalberto Carrasquilla,27,73,3,0,Mexican Football Federation,UNAM
+1228,Panama,Forward,Tomás Rodríguez,27,13,4,0,Costa Rican Football Federation,Saprissa
+1229,Panama,Midfielder,Ismael Díaz,29,57,17,0,Mexican Football Federation,León
+1230,Panama,Midfielder,Yoel Bárcenas,32,104,10,0,Mexican Football Federation,Mazatlán
+1231,Panama,Goalkeeper,César Samudio,32,5,0,0,National Autonomous Federation of Football of Honduras,Marathón
+1232,Panama,Defender,Jiovany Ramos,29,23,2,0,Venezuelan Football Federation,Puerto Cabello
+1233,Panama,Defender,Carlos Harvey,26,28,3,0,United States Soccer Federation,Minnesota United FC
+1234,Panama,Defender,Eric Davis,35,107,9,0,Panamanian Football Federation,Plaza Amador
+1235,Panama,Defender,Andrés Andrade,27,50,1,0,Austrian Football Association,LASK
+1236,Panama,Forward,José Fajardo,32,68,17,0,Ecuadorian Football Federation,Universidad Católica
+1237,Panama,Forward,Cecilio Waterman,35,55,15,0,Football Federation of Chile,Universidad de Concepción
+1238,Panama,Midfielder,Alberto Quintero,38,141,7,0,Panamanian Football Federation,Plaza Amador
+1239,Panama,Midfielder,Aníbal Godoy (captain),36,159,4,0,United States Soccer Federation,San Diego FC
+1240,Panama,Midfielder,César Yanis,30,56,5,0,Football Federation of Chile,Cobresal
+1241,Panama,Goalkeeper,Orlando Mosquera,31,48,0,0,Saudi Arabian Football Federation,Al-Fayha
+1242,Panama,Defender,Michael Amir Murillo,30,94,9,0,Turkish Football Federation,Beşiktaş
+1243,Panama,Forward,Azarias Londoño,24,11,0,0,Ecuadorian Football Federation,Universidad Católica
+1244,Panama,Defender,Roderick Miller,34,50,2,0,Association of Football Federations of Azerbaijan,Turan Tovuz
+1245,Panama,Defender,Jorge Gutiérrez,27,18,0,0,Venezuelan Football Federation,Deportivo La Guaira
