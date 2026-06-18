@@ -54,7 +54,8 @@ class WorldCup2026Simulator:
     
     def __init__(self, groups_df: pd.DataFrame,
                  predict_fn: Optional[Callable] = None,
-                 seed: int = 42):
+                 seed: int = 42,
+                 played_matches_df: Optional[pd.DataFrame] = None):
         """
         Args:
             groups_df: DataFrame dengan kolom 'Group', 'Team', 'FIFA Ranking'
@@ -62,6 +63,8 @@ class WorldCup2026Simulator:
                        dict {'home_win': p, 'draw': p, 'away_win': p}
                        Jika None, gunakan Elo-based prediction.
             seed: Random seed
+            played_matches_df: DataFrame dengan kolom 'Home Team', 'Away Team', 'Home Score', 'Away Score'
+                               untuk pertandingan yang sudah dimainkan di group stage.
         """
         self.groups_df = groups_df.copy()
         self.predict_fn = predict_fn
@@ -71,6 +74,20 @@ class WorldCup2026Simulator:
         self.groups = {}
         for group_name, group_df in groups_df.groupby('Group'):
             self.groups[group_name] = group_df['Team'].tolist()
+            
+        # Parse played matches for lookup
+        self.played_matches = {}
+        if played_matches_df is not None and len(played_matches_df) > 0:
+            from src.features import normalize_team_name
+            for _, row in played_matches_df.iterrows():
+                h_team = row['Home Team']
+                a_team = row['Away Team']
+                h_score = row['Home Score']
+                a_score = row['Away Score']
+                if pd.notna(h_score) and pd.notna(a_score):
+                    h_norm = normalize_team_name(h_team)
+                    a_norm = normalize_team_name(a_team)
+                    self.played_matches[(h_norm, a_norm)] = (int(h_score), int(a_score))
     
     def set_predict_fn(self, predict_fn: Callable):
         """Set fungsi prediksi setelah inisialisasi."""
@@ -169,8 +186,30 @@ class WorldCup2026Simulator:
             for i in range(len(teams)):
                 for j in range(i + 1, len(teams)):
                     team_a, team_b = teams[i], teams[j]
-                    winner, goals_a, goals_b = self.simulate_match(
-                        team_a, team_b, allow_draw=True)
+                    
+                    from src.features import normalize_team_name
+                    h_norm = normalize_team_name(team_a)
+                    a_norm = normalize_team_name(team_b)
+                    
+                    if (h_norm, a_norm) in self.played_matches:
+                        goals_a, goals_b = self.played_matches[(h_norm, a_norm)]
+                        if goals_a > goals_b:
+                            winner = team_a
+                        elif goals_b > goals_a:
+                            winner = team_b
+                        else:
+                            winner = 'draw'
+                    elif (a_norm, h_norm) in self.played_matches:
+                        goals_b, goals_a = self.played_matches[(a_norm, h_norm)]
+                        if goals_a > goals_b:
+                            winner = team_a
+                        elif goals_b > goals_a:
+                            winner = team_b
+                        else:
+                            winner = 'draw'
+                    else:
+                        winner, goals_a, goals_b = self.simulate_match(
+                            team_a, team_b, allow_draw=True)
                     
                     table[team_a]['MP'] += 1
                     table[team_b]['MP'] += 1

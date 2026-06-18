@@ -1,0 +1,25 @@
+ID,Year,Date,Stage,Home Team,Away Team,Host Team,Home Score,Away Score,Penalty Winner
+1,2026,2026-06-11,Group stage,Mexico,South Africa,TRUE,2,0,None
+2,2026,2026-06-11,Group stage,Korea Republic,Czechia,FALSE,2,1,None
+3,2026,2026-06-12,Group stage,Canada,Bosnia and Herzegovina,TRUE,1,1,None
+4,2026,2026-06-12,Group stage,USA,Paraguay,TRUE,4,1,None
+5,2026,2026-06-13,Group stage,Qatar,Switzerland,FALSE,1,1,None
+6,2026,2026-06-13,Group stage,Brazil,Morocco,FALSE,1,1,None
+7,2026,2026-06-13,Group stage,Scotland,Haiti,FALSE,1,0,None
+8,2026,2026-06-13,Group stage,Australia,Türkiye,FALSE,2,0,None
+9,2026,2026-06-14,Group stage,Germany,Curaçao,FALSE,7,1,None
+10,2026,2026-06-14,Group stage,Côte d'Ivoire,Ecuador,FALSE,1,0,None
+11,2026,2026-06-14,Group stage,Netherlands,Japan,FALSE,2,2,None
+12,2026,2026-06-14,Group stage,Sweden,Tunisia,FALSE,5,1,None
+13,2026,2026-06-15,Group stage,Spain,Cabo Verde,FALSE,0,0,None
+14,2026,2026-06-15,Group stage,Saudi Arabia,Uruguay,FALSE,1,1,None
+15,2026,2026-06-15,Group stage,Belgium,Egypt,FALSE,1,1,None
+16,2026,2026-06-15,Group stage,IR Iran,New Zealand,FALSE,2,2,None
+17,2026,2026-06-16,Group stage,France,Senegal,FALSE,3,1,None
+18,2026,2026-06-16,Group stage,Norway,Iraq,FALSE,4,1,None
+19,2026,2026-06-16,Group stage,Argentina,Algeria,FALSE,3,0,None
+20,2026,2026-06-16,Group stage,Austria,Jordan,FALSE,3,1,None
+21,2026,2026-06-17,Group stage,Portugal,Congo DR,FALSE,1,1,None
+22,2026,2026-06-17,Group stage,Colombia,Uzbekistan,FALSE,3,1,None
+23,2026,2026-06-17,Group stage,England,Croatia,FALSE,4,2,None
+24,2026,2026-06-17,Group stage,Ghana,Panama,FALSE,1,0,None

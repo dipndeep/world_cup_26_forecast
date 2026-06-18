@@ -49377,30 +49377,30 @@ ID,Tournament,Date,Home Team,Home Goals,Away Goals,Away Team,Win Conditions,Home
 49376,Friendly,2026-06-08,Netherlands,2.0,1.0,Uzbekistan,,False
 49377,Friendly,2026-06-08,Peru,1.0,3.0,Spain,,False
 49378,Friendly,2026-06-08,Mauritania,1.0,0.0,Niger,,False
-49379,FIFA World Cup,2026-06-11,Mexico,,,South Africa,,True
-49380,FIFA World Cup,2026-06-11,South Korea,,,Czech Republic,,False
-49381,FIFA World Cup,2026-06-12,Canada,,,Bosnia and Herzegovina,,True
-49382,FIFA World Cup,2026-06-12,United States,,,Paraguay,,True
-49383,FIFA World Cup,2026-06-13,Qatar,,,Switzerland,,False
-49384,FIFA World Cup,2026-06-13,Brazil,,,Morocco,,False
-49385,FIFA World Cup,2026-06-13,Haiti,,,Scotland,,False
-49386,FIFA World Cup,2026-06-13,Australia,,,Turkey,,False
-49387,FIFA World Cup,2026-06-14,Germany,,,Curaçao,,False
-49388,FIFA World Cup,2026-06-14,Ivory Coast,,,Ecuador,,False
-49389,FIFA World Cup,2026-06-14,Netherlands,,,Japan,,False
-49390,FIFA World Cup,2026-06-14,Sweden,,,Tunisia,,False
-49391,FIFA World Cup,2026-06-15,Belgium,,,Egypt,,False
-49392,FIFA World Cup,2026-06-15,Iran,,,New Zealand,,False
-49393,FIFA World Cup,2026-06-15,Spain,,,Cape Verde,,False
-49394,FIFA World Cup,2026-06-15,Saudi Arabia,,,Uruguay,,False
-49395,FIFA World Cup,2026-06-16,France,,,Senegal,,False
-49396,FIFA World Cup,2026-06-16,Iraq,,,Norway,,False
-49397,FIFA World Cup,2026-06-16,Argentina,,,Algeria,,False
-49398,FIFA World Cup,2026-06-16,Austria,,,Jordan,,False
-49399,FIFA World Cup,2026-06-17,Portugal,,,DR Congo,,False
-49400,FIFA World Cup,2026-06-17,Uzbekistan,,,Colombia,,False
-49401,FIFA World Cup,2026-06-17,England,,,Croatia,,False
-49402,FIFA World Cup,2026-06-17,Ghana,,,Panama,,False
+49379,FIFA World Cup,2026-06-11,Mexico,2.0,0.0,South Africa,,True
+49380,FIFA World Cup,2026-06-11,South Korea,2.0,1.0,Czech Republic,,False
+49381,FIFA World Cup,2026-06-12,Canada,1.0,1.0,Bosnia and Herzegovina,,True
+49382,FIFA World Cup,2026-06-12,United States,4.0,1.0,Paraguay,,True
+49383,FIFA World Cup,2026-06-13,Qatar,1.0,1.0,Switzerland,,False
+49384,FIFA World Cup,2026-06-13,Brazil,1.0,1.0,Morocco,,False
+49385,FIFA World Cup,2026-06-13,Haiti,0.0,1.0,Scotland,,False
+49386,FIFA World Cup,2026-06-13,Australia,2.0,0.0,Turkey,,False
+49387,FIFA World Cup,2026-06-14,Germany,7.0,1.0,Curaçao,,False
+49388,FIFA World Cup,2026-06-14,Ivory Coast,1.0,0.0,Ecuador,,False
+49389,FIFA World Cup,2026-06-14,Netherlands,2.0,2.0,Japan,,False
+49390,FIFA World Cup,2026-06-14,Sweden,5.0,1.0,Tunisia,,False
+49391,FIFA World Cup,2026-06-15,Belgium,1.0,1.0,Egypt,,False
+49392,FIFA World Cup,2026-06-15,Iran,2.0,2.0,New Zealand,,False
+49393,FIFA World Cup,2026-06-15,Spain,0.0,0.0,Cape Verde,,False
+49394,FIFA World Cup,2026-06-15,Saudi Arabia,1.0,1.0,Uruguay,,False
+49395,FIFA World Cup,2026-06-16,France,3.0,1.0,Senegal,,False
+49396,FIFA World Cup,2026-06-16,Iraq,1.0,4.0,Norway,,False
+49397,FIFA World Cup,2026-06-16,Argentina,3.0,0.0,Algeria,,False
+49398,FIFA World Cup,2026-06-16,Austria,3.0,1.0,Jordan,,False
+49399,FIFA World Cup,2026-06-17,Portugal,1.0,1.0,DR Congo,,False
+49400,FIFA World Cup,2026-06-17,Uzbekistan,1.0,3.0,Colombia,,False
+49401,FIFA World Cup,2026-06-17,England,4.0,2.0,Croatia,,False
+49402,FIFA World Cup,2026-06-17,Ghana,1.0,0.0,Panama,,False
 49403,FIFA World Cup,2026-06-18,Czech Republic,,,South Africa,,False
 49404,FIFA World Cup,2026-06-18,Mexico,,,South Korea,,True
 49405,FIFA World Cup,2026-06-18,Switzerland,,,Bosnia and Herzegovina,,False
