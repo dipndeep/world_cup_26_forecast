@@ -1,25 +1,73 @@
 ID,Year,Date,Stage,Home Team,Away Team,Host Team,Home Score,Away Score,Penalty Winner
-1,2026,2026-06-11,Group stage,Mexico,South Africa,TRUE,2,0,None
-2,2026,2026-06-11,Group stage,Korea Republic,Czechia,FALSE,2,1,None
-3,2026,2026-06-12,Group stage,Canada,Bosnia and Herzegovina,TRUE,1,1,None
-4,2026,2026-06-12,Group stage,USA,Paraguay,TRUE,4,1,None
-5,2026,2026-06-13,Group stage,Qatar,Switzerland,FALSE,1,1,None
-6,2026,2026-06-13,Group stage,Brazil,Morocco,FALSE,1,1,None
-7,2026,2026-06-13,Group stage,Scotland,Haiti,FALSE,1,0,None
-8,2026,2026-06-13,Group stage,Australia,Türkiye,FALSE,2,0,None
-9,2026,2026-06-14,Group stage,Germany,Curaçao,FALSE,7,1,None
-10,2026,2026-06-14,Group stage,Côte d'Ivoire,Ecuador,FALSE,1,0,None
-11,2026,2026-06-14,Group stage,Netherlands,Japan,FALSE,2,2,None
-12,2026,2026-06-14,Group stage,Sweden,Tunisia,FALSE,5,1,None
-13,2026,2026-06-15,Group stage,Spain,Cabo Verde,FALSE,0,0,None
-14,2026,2026-06-15,Group stage,Saudi Arabia,Uruguay,FALSE,1,1,None
-15,2026,2026-06-15,Group stage,Belgium,Egypt,FALSE,1,1,None
-16,2026,2026-06-15,Group stage,IR Iran,New Zealand,FALSE,2,2,None
-17,2026,2026-06-16,Group stage,France,Senegal,FALSE,3,1,None
-18,2026,2026-06-16,Group stage,Norway,Iraq,FALSE,4,1,None
-19,2026,2026-06-16,Group stage,Argentina,Algeria,FALSE,3,0,None
-20,2026,2026-06-16,Group stage,Austria,Jordan,FALSE,3,1,None
-21,2026,2026-06-17,Group stage,Portugal,Congo DR,FALSE,1,1,None
-22,2026,2026-06-17,Group stage,Colombia,Uzbekistan,FALSE,3,1,None
-23,2026,2026-06-17,Group stage,England,Croatia,FALSE,4,2,None
-24,2026,2026-06-17,Group stage,Ghana,Panama,FALSE,1,0,None
+1,2026,2026-06-11,Group stage,Mexico,South Africa,True,2,0,None
+2,2026,2026-06-11,Group stage,Korea Republic,Czechia,False,2,1,None
+3,2026,2026-06-12,Group stage,Canada,Bosnia and Herzegovina,True,1,1,None
+4,2026,2026-06-12,Group stage,USA,Paraguay,True,4,1,None
+5,2026,2026-06-13,Group stage,Qatar,Switzerland,False,1,1,None
+6,2026,2026-06-13,Group stage,Brazil,Morocco,False,1,1,None
+7,2026,2026-06-13,Group stage,Scotland,Haiti,False,1,0,None
+8,2026,2026-06-13,Group stage,Australia,Türkiye,False,2,0,None
+9,2026,2026-06-14,Group stage,Germany,Curaçao,False,7,1,None
+10,2026,2026-06-14,Group stage,Côte d'Ivoire,Ecuador,False,1,0,None
+11,2026,2026-06-14,Group stage,Netherlands,Japan,False,2,2,None
+12,2026,2026-06-14,Group stage,Sweden,Tunisia,False,5,1,None
+13,2026,2026-06-15,Group stage,Spain,Cabo Verde,False,0,0,None
+14,2026,2026-06-15,Group stage,Saudi Arabia,Uruguay,False,1,1,None
+15,2026,2026-06-15,Group stage,Belgium,Egypt,False,1,1,None
+16,2026,2026-06-15,Group stage,IR Iran,New Zealand,False,2,2,None
+17,2026,2026-06-16,Group stage,France,Senegal,False,3,1,None
+18,2026,2026-06-16,Group stage,Norway,Iraq,False,4,1,None
+19,2026,2026-06-16,Group stage,Argentina,Algeria,False,3,0,None
+20,2026,2026-06-16,Group stage,Austria,Jordan,False,3,1,None
+21,2026,2026-06-17,Group stage,Portugal,Congo DR,False,1,1,None
+22,2026,2026-06-17,Group stage,Colombia,Uzbekistan,False,3,1,None
+23,2026,2026-06-17,Group stage,England,Croatia,False,4,2,None
+24,2026,2026-06-17,Group stage,Ghana,Panama,False,1,0,None
+25,2026,2026-06-18,Group stage,Czechia,South Africa,False,1,1,None
+26,2026,2026-06-18,Group stage,Switzerland,Bosnia and Herzegovina,False,2,0,None
+27,2026,2026-06-18,Group stage,Canada,Qatar,True,3,0,None
+28,2026,2026-06-18,Group stage,Mexico,Korea Republic,True,1,0,None
+29,2026,2026-06-19,Group stage,Scotland,Morocco,False,0,1,None
+30,2026,2026-06-19,Group stage,Brazil,Haiti,False,4,1,None
+31,2026,2026-06-19,Group stage,USA,Australia,True,2,0,None
+32,2026,2026-06-19,Group stage,Türkiye,Paraguay,False,0,1,None
+33,2026,2026-06-20,Group stage,Germany,Côte d'Ivoire,False,2,1,None
+34,2026,2026-06-20,Group stage,Ecuador,Curaçao,False,0,0,None
+35,2026,2026-06-20,Group stage,Netherlands,Sweden,False,5,1,None
+36,2026,2026-06-20,Group stage,Tunisia,Japan,False,0,4,None
+37,2026,2026-06-21,Group stage,Belgium,IR Iran,False,0,0,None
+38,2026,2026-06-21,Group stage,New Zealand,Egypt,False,1,3,None
+39,2026,2026-06-21,Group stage,Spain,Saudi Arabia,False,4,0,None
+40,2026,2026-06-21,Group stage,Uruguay,Cabo Verde,False,2,2,None
+41,2026,2026-06-22,Group stage,France,Iraq,False,3,0,None
+42,2026,2026-06-22,Group stage,Norway,Senegal,False,3,2,None
+43,2026,2026-06-22,Group stage,Argentina,Austria,False,2,0,None
+44,2026,2026-06-22,Group stage,Jordan,Algeria,False,1,2,None
+45,2026,2026-06-23,Group stage,Portugal,Uzbekistan,False,5,0,None
+46,2026,2026-06-23,Group stage,Colombia,Congo DR,False,1,0,None
+47,2026,2026-06-23,Group stage,England,Ghana,False,0,0,None
+48,2026,2026-06-23,Group stage,Panama,Croatia,False,0,1,None
+49,2026,2026-06-24,Group stage,Mexico,Czechia,True,3,0,None
+50,2026,2026-06-24,Group stage,South Africa,Korea Republic,False,1,0,None
+51,2026,2026-06-24,Group stage,Canada,Switzerland,True,1,2,None
+52,2026,2026-06-24,Group stage,Bosnia and Herzegovina,Qatar,False,3,1,None
+53,2026,2026-06-24,Group stage,Scotland,Brazil,False,0,3,None
+54,2026,2026-06-24,Group stage,Morocco,Haiti,False,4,2,None
+55,2026,2026-06-25,Group stage,USA,Türkiye,True,2,3,None
+56,2026,2026-06-25,Group stage,Paraguay,Australia,False,0,0,None
+57,2026,2026-06-25,Group stage,Curaçao,Côte d'Ivoire,False,0,2,None
+58,2026,2026-06-25,Group stage,Ecuador,Germany,False,2,1,None
+59,2026,2026-06-25,Group stage,Japan,Sweden,False,1,1,None
+60,2026,2026-06-25,Group stage,Tunisia,Netherlands,False,1,3,None
+61,2026,2026-06-26,Group stage,Egypt,IR Iran,False,1,1,None
+62,2026,2026-06-26,Group stage,New Zealand,Belgium,False,1,5,None
+63,2026,2026-06-26,Group stage,Cabo Verde,Saudi Arabia,False,0,0,None
+64,2026,2026-06-26,Group stage,Uruguay,Spain,False,0,1,None
+65,2026,2026-06-26,Group stage,Norway,France,False,1,4,None
+66,2026,2026-06-26,Group stage,Senegal,Iraq,False,5,0,None
+67,2026,2026-06-27,Group stage,Algeria,Austria,False,3,3,None
+68,2026,2026-06-27,Group stage,Jordan,Argentina,False,1,3,None
+69,2026,2026-06-27,Group stage,Colombia,Portugal,False,0,0,None
+70,2026,2026-06-27,Group stage,DR Congo,Uzbekistan,False,3,1,None
+71,2026,2026-06-27,Group stage,Panama,England,False,0,2,None
+72,2026,2026-06-27,Group stage,Croatia,Ghana,False,2,1,None

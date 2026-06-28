@@ -49401,51 +49401,51 @@ ID,Tournament,Date,Home Team,Home Goals,Away Goals,Away Team,Win Conditions,Home
 49400,FIFA World Cup,2026-06-17,Uzbekistan,1.0,3.0,Colombia,,False
 49401,FIFA World Cup,2026-06-17,England,4.0,2.0,Croatia,,False
 49402,FIFA World Cup,2026-06-17,Ghana,1.0,0.0,Panama,,False
-49403,FIFA World Cup,2026-06-18,Czech Republic,,,South Africa,,False
-49404,FIFA World Cup,2026-06-18,Mexico,,,South Korea,,True
-49405,FIFA World Cup,2026-06-18,Switzerland,,,Bosnia and Herzegovina,,False
-49406,FIFA World Cup,2026-06-18,Canada,,,Qatar,,True
-49407,FIFA World Cup,2026-06-19,Scotland,,,Morocco,,False
-49408,FIFA World Cup,2026-06-19,Brazil,,,Haiti,,False
-49409,FIFA World Cup,2026-06-19,United States,,,Australia,,True
-49410,FIFA World Cup,2026-06-19,Turkey,,,Paraguay,,False
-49411,FIFA World Cup,2026-06-20,Germany,,,Ivory Coast,,False
-49412,FIFA World Cup,2026-06-20,Ecuador,,,Curaçao,,False
-49413,FIFA World Cup,2026-06-20,Netherlands,,,Sweden,,False
-49414,FIFA World Cup,2026-06-20,Tunisia,,,Japan,,False
-49415,FIFA World Cup,2026-06-21,Belgium,,,Iran,,False
-49416,FIFA World Cup,2026-06-21,New Zealand,,,Egypt,,False
-49417,FIFA World Cup,2026-06-21,Spain,,,Saudi Arabia,,False
-49418,FIFA World Cup,2026-06-21,Uruguay,,,Cape Verde,,False
-49419,FIFA World Cup,2026-06-22,France,,,Iraq,,False
-49420,FIFA World Cup,2026-06-22,Norway,,,Senegal,,False
-49421,FIFA World Cup,2026-06-22,Argentina,,,Austria,,False
-49422,FIFA World Cup,2026-06-22,Jordan,,,Algeria,,False
-49423,FIFA World Cup,2026-06-23,Portugal,,,Uzbekistan,,False
-49424,FIFA World Cup,2026-06-23,Colombia,,,DR Congo,,False
-49425,FIFA World Cup,2026-06-23,England,,,Ghana,,False
-49426,FIFA World Cup,2026-06-23,Panama,,,Croatia,,False
-49427,FIFA World Cup,2026-06-24,Mexico,,,Czech Republic,,True
-49428,FIFA World Cup,2026-06-24,South Africa,,,South Korea,,False
-49429,FIFA World Cup,2026-06-24,Canada,,,Switzerland,,True
-49430,FIFA World Cup,2026-06-24,Bosnia and Herzegovina,,,Qatar,,False
-49431,FIFA World Cup,2026-06-24,Scotland,,,Brazil,,False
-49432,FIFA World Cup,2026-06-24,Morocco,,,Haiti,,False
-49433,FIFA World Cup,2026-06-25,United States,,,Turkey,,True
-49434,FIFA World Cup,2026-06-25,Paraguay,,,Australia,,False
-49435,FIFA World Cup,2026-06-25,Curaçao,,,Ivory Coast,,False
-49436,FIFA World Cup,2026-06-25,Ecuador,,,Germany,,False
-49437,FIFA World Cup,2026-06-25,Japan,,,Sweden,,False
-49438,FIFA World Cup,2026-06-25,Tunisia,,,Netherlands,,False
-49439,FIFA World Cup,2026-06-26,Egypt,,,Iran,,False
-49440,FIFA World Cup,2026-06-26,New Zealand,,,Belgium,,False
-49441,FIFA World Cup,2026-06-26,Cape Verde,,,Saudi Arabia,,False
-49442,FIFA World Cup,2026-06-26,Uruguay,,,Spain,,False
-49443,FIFA World Cup,2026-06-26,Norway,,,France,,False
-49444,FIFA World Cup,2026-06-26,Senegal,,,Iraq,,False
-49445,FIFA World Cup,2026-06-27,Algeria,,,Austria,,False
-49446,FIFA World Cup,2026-06-27,Jordan,,,Argentina,,False
-49447,FIFA World Cup,2026-06-27,Colombia,,,Portugal,,False
-49448,FIFA World Cup,2026-06-27,DR Congo,,,Uzbekistan,,False
-49449,FIFA World Cup,2026-06-27,Panama,,,England,,False
-49450,FIFA World Cup,2026-06-27,Croatia,,,Ghana,,False
+49403,FIFA World Cup,2026-06-18,Czech Republic,1.0,1.0,South Africa,,False
+49404,FIFA World Cup,2026-06-18,Mexico,1.0,0.0,South Korea,,True
+49405,FIFA World Cup,2026-06-18,Switzerland,2.0,0.0,Bosnia and Herzegovina,,False
+49406,FIFA World Cup,2026-06-18,Canada,3.0,0.0,Qatar,,True
+49407,FIFA World Cup,2026-06-19,Scotland,0.0,1.0,Morocco,,False
+49408,FIFA World Cup,2026-06-19,Brazil,4.0,1.0,Haiti,,False
+49409,FIFA World Cup,2026-06-19,United States,2.0,0.0,Australia,,True
+49410,FIFA World Cup,2026-06-19,Turkey,0.0,1.0,Paraguay,,False
+49411,FIFA World Cup,2026-06-20,Germany,2.0,1.0,Ivory Coast,,False
+49412,FIFA World Cup,2026-06-20,Ecuador,0.0,0.0,Curaçao,,False
+49413,FIFA World Cup,2026-06-20,Netherlands,5.0,1.0,Sweden,,False
+49414,FIFA World Cup,2026-06-20,Tunisia,0.0,4.0,Japan,,False
+49415,FIFA World Cup,2026-06-21,Belgium,0.0,0.0,Iran,,False
+49416,FIFA World Cup,2026-06-21,New Zealand,1.0,3.0,Egypt,,False
+49417,FIFA World Cup,2026-06-21,Spain,4.0,0.0,Saudi Arabia,,False
+49418,FIFA World Cup,2026-06-21,Uruguay,2.0,2.0,Cape Verde,,False
+49419,FIFA World Cup,2026-06-22,France,3.0,0.0,Iraq,,False
+49420,FIFA World Cup,2026-06-22,Norway,3.0,2.0,Senegal,,False
+49421,FIFA World Cup,2026-06-22,Argentina,2.0,0.0,Austria,,False
+49422,FIFA World Cup,2026-06-22,Jordan,1.0,2.0,Algeria,,False
+49423,FIFA World Cup,2026-06-23,Portugal,5.0,0.0,Uzbekistan,,False
+49424,FIFA World Cup,2026-06-23,Colombia,1.0,0.0,DR Congo,,False
+49425,FIFA World Cup,2026-06-23,England,0.0,0.0,Ghana,,False
+49426,FIFA World Cup,2026-06-23,Panama,0.0,1.0,Croatia,,False
+49427,FIFA World Cup,2026-06-24,Mexico,3.0,0.0,Czech Republic,,True
+49428,FIFA World Cup,2026-06-24,South Africa,1.0,0.0,South Korea,,False
+49429,FIFA World Cup,2026-06-24,Canada,1.0,2.0,Switzerland,,True
+49430,FIFA World Cup,2026-06-24,Bosnia and Herzegovina,3.0,1.0,Qatar,,False
+49431,FIFA World Cup,2026-06-24,Scotland,0.0,3.0,Brazil,,False
+49432,FIFA World Cup,2026-06-24,Morocco,4.0,2.0,Haiti,,False
+49433,FIFA World Cup,2026-06-25,United States,2.0,3.0,Turkey,,True
+49434,FIFA World Cup,2026-06-25,Paraguay,0.0,0.0,Australia,,False
+49435,FIFA World Cup,2026-06-25,Curaçao,0.0,2.0,Ivory Coast,,False
+49436,FIFA World Cup,2026-06-25,Ecuador,2.0,1.0,Germany,,False
+49437,FIFA World Cup,2026-06-25,Japan,1.0,1.0,Sweden,,False
+49438,FIFA World Cup,2026-06-25,Tunisia,1.0,3.0,Netherlands,,False
+49439,FIFA World Cup,2026-06-26,Egypt,1.0,1.0,Iran,,False
+49440,FIFA World Cup,2026-06-26,New Zealand,1.0,5.0,Belgium,,False
+49441,FIFA World Cup,2026-06-26,Cape Verde,0.0,0.0,Saudi Arabia,,False
+49442,FIFA World Cup,2026-06-26,Uruguay,0.0,1.0,Spain,,False
+49443,FIFA World Cup,2026-06-26,Norway,1.0,4.0,France,,False
+49444,FIFA World Cup,2026-06-26,Senegal,5.0,0.0,Iraq,,False
+49445,FIFA World Cup,2026-06-27,Algeria,3.0,3.0,Austria,,False
+49446,FIFA World Cup,2026-06-27,Jordan,1.0,3.0,Argentina,,False
+49447,FIFA World Cup,2026-06-27,Colombia,0.0,0.0,Portugal,,False
+49448,FIFA World Cup,2026-06-27,DR Congo,3.0,1.0,Uzbekistan,,False
+49449,FIFA World Cup,2026-06-27,Panama,0.0,2.0,England,,False
+49450,FIFA World Cup,2026-06-27,Croatia,2.0,1.0,Ghana,,False

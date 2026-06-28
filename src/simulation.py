@@ -301,40 +301,33 @@ class WorldCup2026Simulator:
         Returns:
             Dict berisi hasil setiap ronde dan pemenang
         """
-        # Simplified: pair up teams for knockout
-        all_qualified = qualified['first'] + qualified['second'] + qualified['third']
-        
-        # Shuffle third-place teams into bracket positions
-        # (Simplified — real FIFA bracket is more complex)
-        round_of_32_teams = []
-        
-        # Pair 1st place with 2nd/3rd from other groups
-        for i, first in enumerate(qualified['first']):
-            # Pair with second from a different group
-            second_idx = (i + 2) % len(qualified['second'])
-            round_of_32_teams.append((first, qualified['second'][second_idx]))
-        
-        # Pair remaining with third-place teams
-        remaining_seconds = [s for i, s in enumerate(qualified['second']) 
-                            if i not in [(j + 2) % len(qualified['second']) 
-                                        for j in range(len(qualified['first']))]]
-        
-        third_idx = 0
-        for s in remaining_seconds:
-            if third_idx < len(qualified['third']):
-                round_of_32_teams.append((s, qualified['third'][third_idx]))
-                third_idx += 1
-        
-        # Fill remaining with third-place matchups
-        while third_idx + 1 < len(qualified['third']):
-            round_of_32_teams.append(
-                (qualified['third'][third_idx], qualified['third'][third_idx + 1]))
-            third_idx += 2
-        
-        # Ensure we have 16 matches for Round of 32
-        while len(round_of_32_teams) < 16:
-            # Fallback: add from qualified teams
-            break
+        # The official 16 Round of 32 match pairings for the FIFA World Cup 2026.
+        # Ordered such that winners of consecutive pairs play each other in the next round.
+        round_of_32_teams = [
+            # Top Half - Section 1
+            ("South Africa", "Canada"),                 # Match 73
+            ("Netherlands", "Morocco"),                 # Match 75
+            ("Germany", "Paraguay"),                   # Match 74
+            ("France", "Sweden"),                       # Match 77
+            
+            # Top Half - Section 2
+            ("United States", "Bosnia and Herzegovina"),   # Match 81
+            ("Belgium", "Senegal"),                     # Match 82
+            ("Portugal", "Croatia"),                    # Match 83
+            ("Spain", "Austria"),                       # Match 84
+            
+            # Bottom Half - Section 1
+            ("Brazil", "Japan"),                       # Match 76
+            ("Ivory Coast", "Norway"),                  # Match 78
+            ("Mexico", "Ecuador"),                     # Match 79
+            ("England", "DR Congo"),                    # Match 80
+            
+            # Bottom Half - Section 2
+            ("Switzerland", "Algeria"),                 # Match 85
+            ("Colombia", "Ghana"),                      # Match 87
+            ("Argentina", "Cape Verde"),               # Match 86
+            ("Australia", "Egypt")                      # Match 88
+        ]
         
         results = {
             'round_of_32': [],
@@ -464,9 +457,9 @@ class WorldCup2026Simulator:
             results = self.simulate_knockout(qualified, standings)
             
             # Track progress
-            r16_teams = {m['winner'] for m in results['round_of_16']}
-            qf_teams = {m['winner'] for m in results['quarter_finals']}
-            sf_teams = {m['winner'] for m in results['semi_finals']}
+            r16_teams = {m['winner'] for m in results['round_of_32']}
+            qf_teams = {m['winner'] for m in results['round_of_16']}
+            sf_teams = {m['winner'] for m in results['quarter_finals']}
             
             for team in r16_teams:
                 team_stats[team]['round_of_16'] += 1
